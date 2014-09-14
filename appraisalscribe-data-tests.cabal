@@ -1,0 +1,78 @@
+Name:           appraisalscribe-data-tests
+Version:        2.28.1
+License:        AllRightsReserved
+Copyright:      (c) 2008-2011, SeeReason Partners LLC
+Author:         David Fox <dsf@seereason.com>
+Maintainer:     David Fox <dsf@seereason.com>
+Homepage:       http://appraisalscribe.com
+Synopsis:       Unit tests for the appraisalscribe-data package 
+Cabal-version:  >= 1.8
+build-type:     Custom
+
+flag local-appraisalscribe-data
+  Description: Link to local source repo for appraisalscribe-data package
+  Default: True
+  Manual: True
+
+flag local-image-cache
+  Description: Link to local source repo for image-cache package
+  Default: True
+  Manual: True
+
+Executable appraisalscribe-data-tests
+  Hs-Source-Dirs: Tests
+  Main-is: Main.hs
+  -- Prevent processes trying to exhaust memory from bringing my machine down
+  GHC-Options: -with-rtsopts=-M4096m -Wall
+  Build-Depends:
+    acid-state,
+    base,
+    bytestring,
+    cabal-debian,
+    containers,
+    Diff,
+    directory,
+    file-embed,
+    filepath,
+    HaTeX,
+    hslogger,
+    HUnit,
+    mtl,
+    network-uri,
+    process,
+    process-listlike,
+    pureMD5,
+    safecopy,
+    syb,
+    text
+  if flag (local-appraisalscribe-data)
+    Hs-Source-Dirs: ../../darcs/appraisalscribe-data
+    Build-Depends:
+      aeson,
+      binary,
+      data-lens,
+      Extra,
+      groom,
+      happstack-authenticate,
+      hxt,
+      jmacro,
+      ListLike,
+      pandoc,
+      pretty,
+      random,
+      regex-compat,
+      revision,
+      template-haskell,
+      unix,
+      Unixutils,
+      utf8-string,
+      web-routes,
+      web-routes-th
+  else
+    Build-Depends: appraisalscribe-data
+
+  if flag (local-image-cache)
+    Hs-Source-Dirs: ../../git/image-cache
+  else
+    Build-Depends:
+      image-cache

@@ -1,0 +1,1791 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian)
+ restricted \write18 enabled.
+entering extended mode
+(./rendered.ltx
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 10 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3basics.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3expan.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3tl.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3seq.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3token.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prop.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3msg.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3candidates.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty)
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \oldstylenums with arg. spec. 'm' on line 128.
+*************************************************
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \ReloadXunicode with arg. spec. 'm' on line 89.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareUTFmathsymbols with arg. spec. 'm' on
+* line 124.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \UseMathAsText with arg. spec. '' on line 133.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \UndeclareUTFcharacter with arg. spec.
+* 'O{\UTFencname }mm' on line 168.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \UndeclareUTFcomposite with arg. spec.
+* 'O{\UTFencname }mmm' on line 175.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareUTFcharacter with arg. spec.
+* 'O{\UTFencname }mm' on line 202.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareUTFcomposite with arg. spec.
+* 'O{\UTFencname }mmm' on line 273.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareEncodedCompositeCharacter with arg.
+* spec. 'mmmm' on line 303.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareEncodedCompositeAccents with arg. spec.
+* 'mmmm' on line 305.
+*************************************************
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+*** Reloading Xunicode for encoding 'EU1' ***
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xunicode-extra.def)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty)
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \nobreakspace with arg. spec. '' on line 3544.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \fontfamily with arg. spec. 'm' on line 3590.
+*************************************************
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/config/xeCJK.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/paralist/paralist.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/section/section.sty
+`section.sty' <1.4>
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+(/usr/share/texmf/tex/latex/CJK/CJKfntef.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty))
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \CJKunderdot with arg. spec. 'm' on line 395.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \CJKunderanysymbol with arg. spec. 'mmm' on line
+* 418.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-environment"
+* 
+* Redefining document environment 'CJKfilltwosides' with arg. spec. 'O{c}m' on
+* line 462.
+*************************************************
+) (./rendered.aux) (/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" >
+*************************************************
+* xeCJK warning: "CJKfamily-Unknown"
+* 
+* Unknown CJK family `\CJKttdefault' is being ignored.
+* 
+* Try to use `\setCJKmonofont[...]{...}' to define it.
+*************************************************
+[1] (./rendered.toc)
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [2]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [3]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [4]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [5]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [6]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [7]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [8]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [9]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [10]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [11]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [12]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [13]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [14]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [15]
+Overfull \hbox (35.55173pt too wide) in paragraph at lines 247--248
+\EU1/NimbusRomanNo9L(0)/m/n/12 that differed from the backing sheet (http://www
+.ifpda.org/content/collecting_prints/glossary#chine-
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [16]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [17]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [18]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [19]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [20]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [21]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [22]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [23]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [24]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [25]
+Overfull \hbox (11.24504pt too wide) in paragraph at lines 266--266
+\EU1/NimbusRomanNo9L(0)/m/n/12 October 22, 2012, (http://www.artinfo.com/news/s
+tory/832684/everything-you-need-to-know-about-
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [26]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [27]
+Overfull \hbox (13.40532pt too wide) in paragraph at lines 268--269
+[]\EU1/NimbusRomanNo9L(0)/m/n/12 State of preservation is near original conditi
+on; object exhibits stabilization/conservation
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [28]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [29]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [30]
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+[]|\EU1/NimbusRomanNo9L(0)/m/n/12 Half-tone
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [31]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [32]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [33]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [34]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [35]
+<use  "/srv/appraisalscribe-development/images/fb463cf4f105ee4912877e669f30a12e
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 599--631
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [36]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [37]
+<use  "/srv/appraisalscribe-development/images/b1b008718da20103e2bf4836934cee49
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 642--674
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [38]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [39]
+<use  "/srv/appraisalscribe-development/images/ff6b0165da47bef7e96c1b8be0a38f28
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 685--717
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [40]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [41]
+<use  "/srv/appraisalscribe-development/images/df10950d135b3a3c343ca1ea775ff10c
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 728--760
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [42]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [43]
+<use  "/srv/appraisalscribe-development/images/7357252f727bfa265eb7f3ffb0a9c7da
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c781644c783254544e836ba03f50ec70
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/14e07a65cc27669a7bff4315bd90f32a
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/18da727b69fc69fe943e560dfbe238ef
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/80550032412ed6933df4ce1ffcad7552
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c7bae670737f9842507dfc214eec3045
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/755c3f0c5aa3572f15ce94620e3e50cd
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c99fa6fed40dc95ded1b1fd99be79db3
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/d992a7c5bb9255b272b5d0e93d2acc16
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [44]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 806--840
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [45]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [46]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [47]
+<use  "/srv/appraisalscribe-development/images/d0dacef7955dba4d7fb899283eabb107
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/b9e9cc1b5ee7ea345d5f302622723b7c
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/aeb0de4415fd9c0b1185bbe8542f3aea
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/cf0f20722502f8261a3af0325b6df882
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 877--911
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [48]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [49]
+<use  "/srv/appraisalscribe-development/images/c57bb8ab7d315e6abb6ed49636ee1208
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 927--961
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [50]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [51]
+<use  "/srv/appraisalscribe-development/images/711ba54078250b90d228c79805b7ac39
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 977--1011
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [52]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [53]
+<use  "/srv/appraisalscribe-development/images/b7093a98dea3a26717bf46f33535c929
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1027--1061
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [54]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [55]
+<use  "/srv/appraisalscribe-development/images/40169632e7f7af59a7ad0c30db0e9d6d
+.jpg" >
+Underfull \hbox (badness 1342) in paragraph at lines 1103--1104
+[]|\EU1/NimbusRomanNo9L(0)/m/n/12 “The Overlap Series: Palm Trees and Building 
+(with
+
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1086--1120
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [56]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [57]
+<use  "/srv/appraisalscribe-development/images/20c15679220aecbe7640ef69f2fa3bf3
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/2f0b5414862737250bf2f45a134cdbd5
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/e0ac4a4e65ff881362177d09ab80a634
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/35336d6f37ed72e9ac7bfcc7f2afaed9
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/20edf979f0e9a9a8ac96e8979f4fda94
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [58]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1155--1189
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [59]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [60]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [61]
+<use  "/srv/appraisalscribe-development/images/dcc75aff2376ac63b54374a859ffd16f
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/ea0e5834394d94ab8e22473289bc23a5
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1216--1250
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [62]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [63]
+<use  "/srv/appraisalscribe-development/images/840e039a0f1db804000d6a71e6f96ca2
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/1c8757b1efc18ca3b63ec401f7958ebd
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1272--1304
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [64]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [65]
+<use  "/srv/appraisalscribe-development/images/7e1b4598b17020a7a2d181917f71719e
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/b7b9a5736d1508605d06976c14feab93
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1330--1360
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [66]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [67]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [68]
+<use  "/srv/appraisalscribe-development/images/9b33c6c61be07199a49edde4df0ceaae
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1382--1416
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [69]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [70]
+<use  "/srv/appraisalscribe-development/images/d23f1dcced866d9ccd98b24ecb297f4e
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1432--1466
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [71]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [72]
+<use  "/srv/appraisalscribe-development/images/e37a712fc3a4cb4c37c241c8985eb482
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1482--1516
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [73]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [74]
+<use  "/srv/appraisalscribe-development/images/eb522f856851ecbd8bf60e0d2bc98a76
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1532--1566
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [75]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [76]
+<use  "/srv/appraisalscribe-development/images/c8941887ce2488f4a4ee53a7609d65cd
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1582--1616
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [77]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [78]
+<use  "/srv/appraisalscribe-development/images/51d7a0c73525b0061461ddd70dfe8988
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1636--1670
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [79]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [80]
+<use  "/srv/appraisalscribe-development/images/ae1d322da547da8083cf1ac3d57948e7
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1686--1720
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [81]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [82]
+<use  "/srv/appraisalscribe-development/images/b9fd771cddea517f9e40db05282782cb
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/aefd379502023b3266ac84e32d167fa2
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1742--1772
+ [] [] 
+
+Overfull \vbox (7.8771pt too high) has occurred while \output is active
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [83]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [84]
+<use  "/srv/appraisalscribe-development/images/f6941e1fac9d2bc2b97fe3542d0a2f84
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1788--1822
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [85]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [86]
+<use  "/srv/appraisalscribe-development/images/8b67291f2ef749c9ee9fb6349ce2c9b1
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/ade23fc8a72f35f064265176c4fc070c
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1842--1876
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [87]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [88]
+<use  "/srv/appraisalscribe-development/images/692664bf935c2798aa3a4a64cce3abae
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1892--1926
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [89]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [90]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [91]
+<use  "/srv/appraisalscribe-development/images/ef2622fdf201e100dde621238f3cf899
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1943--1977
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [92]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [93]
+<use  "/srv/appraisalscribe-development/images/080f35c3af07925460c70a611c94c8d1
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/70ca9c65b169bb121d8fc8229fb3e7be
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/1fef56d53d10a4ea63102e83cf76b10a
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/9dee9e1707198b61ba9540e81e4f390b
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c33e26fa2f4678d8f283c7c586253ddb
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [94]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2012--2046
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [95]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [96]
+<use  "/srv/appraisalscribe-development/images/89cec1fad23d40546d89b4d829bbc93a
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2062--2096
+ [] [] 
+
+Overfull \hbox (2.17975pt too wide) in paragraph at lines 2098--2099
+[] \EU1/NimbusRomanNo9L(0)/bx/n/12 Market Analysis: \EU1/NimbusRomanNo9L(0)/m/n
+/12 Olafur Eliasson is a Danish artist who now lives and works in Germany. Trai
+ned
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [97]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [98]
+<use  "/srv/appraisalscribe-development/images/aac7969bdeacaf619c232e2f83d312a4
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/9861b43c6e8f5385d3a089726435da80
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/bbfde7815d5d99d45fe03f950dcaa25b
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/8066e3f27ad9fedd17d4e971cb32fb9f
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/537def0d91a140d4e42180c68d45a7cd
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [99]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2131--2165
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [100]
+Overfull \hbox (0.18907pt too wide) in paragraph at lines 2167--2168
+[] \EU1/NimbusRomanNo9L(0)/bx/n/12 Market Analysis: \EU1/NimbusRomanNo9L(0)/m/n
+/12 Günther Forg is a prominent German artist who now lives and works in Switze
+r-
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [101]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [102]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [103]
+<use  "/srv/appraisalscribe-development/images/8bbd616a24f0154c792d5fca5ff28ff3
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2187--2221
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [104]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [105]
+<use  "/srv/appraisalscribe-development/images/64851697b776fef0e91021a08a35a353
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2232--2266
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [106]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [107]
+<use  "/srv/appraisalscribe-development/images/862b6c487d8cf471a22ab25ce93d7123
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c1fd5beec27e1787eeeac7e99c17472d
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/7b90404dc09a63ba6efc21b9dce57717
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2286--2320
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [108]
+Overfull \hbox (1.88512pt too wide) in paragraph at lines 2322--2323
+[] \EU1/NimbusRomanNo9L(0)/bx/n/12 Market Analysis: \EU1/NimbusRomanNo9L(0)/m/n
+/12 Mary Heilman is an American painter, ceramicist and furniture designer, kno
+wn
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [109]
+<use  "/srv/appraisalscribe-development/images/f8dd65536ff0ed134ab9b3b329a14eea
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2336--2370
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [110]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [111]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [112]
+<use  "/srv/appraisalscribe-development/images/7530c657a796ead646b56bfee39e710f
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2392--2426
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [113]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [114]
+<use  "/srv/appraisalscribe-development/images/a155b71d0cd736368db8cdf7fccc8253
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2437--2471
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [115]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [116]
+<use  "/srv/appraisalscribe-development/images/56ba9b187b671fad76675e880a6f11af
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2482--2516
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [117]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [118]
+<use  "/srv/appraisalscribe-development/images/26578a8a448af7cc873aa432421794c0
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/33aa64f5e2d39da77a8368ea4226bece
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/af341834a9bce05bc2d51d7761c3fdbe
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2536--2570
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [119]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [120]
+<use  "/srv/appraisalscribe-development/images/6d6a55a178429834a1cde66143432a18
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/bcb218fcaf429bc6f92762d3f2bd8f33
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2591--2623
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [121]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [122]
+<use  "/srv/appraisalscribe-development/images/ada5aba80501e9da3dd6370c83b58e73
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/efc7a91e75f7997f2bafe04eeab12f96
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2644--2678
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [123]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [124]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [125]
+<use  "/srv/appraisalscribe-development/images/5be6d2a3ec6f68da35ff7dffd5b6584c
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/3e0a111e883c9d43283a0dafab62ad13
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/3f4c3e92a26a53a3296069e1ab140bf2
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/5be6d2a3ec6f68da35ff7dffd5b6584c
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/64641db9ef389964d115054a08c7f5ac
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2718--2752
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [126]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [127]
+<use  "/srv/appraisalscribe-development/images/cd8eb71079d24afcabd35bb225648c07
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2768--2802
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [128]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [129]
+<use  "/srv/appraisalscribe-development/images/94d75870054c01ae1713a02434c0a012
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2818--2852
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [130]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [131]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [132]
+<use  "/srv/appraisalscribe-development/images/21462b75f429c3736d0bcc7538275a3e
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2874--2908
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [133]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [134]
+<use  "/srv/appraisalscribe-development/images/1c9a4fe46eb259ec79e14f04def96979
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2924--2958
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [135]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [136]
+<use  "/srv/appraisalscribe-development/images/ad317ac81aac2646b193d6db6d37ce8f
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 2977--3011
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [137]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [138]
+<use  "/srv/appraisalscribe-development/images/f2f283c48d3446a95f1c115681cea8f2
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3033--3067
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [139]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [140]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [141]
+<use  "/srv/appraisalscribe-development/images/4785c25f2c5b14365a1a18598c5cc31b
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3090--3120
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [142]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [143]
+<use  "/srv/appraisalscribe-development/images/a37a15dc652a1604a185b92912e664f2
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3131--3161
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [144]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [145]
+<use  "/srv/appraisalscribe-development/images/a9820a8642dd3cbbc1b64e31b5f19781
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3172--3202
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [146]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [147]
+<use  "/srv/appraisalscribe-development/images/e75b1f580785cc82a1127e10d43faa26
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3213--3243
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [148]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [149]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [150]
+<use  "/srv/appraisalscribe-development/images/4571cecf83e15607fdb9c3beca3626d8
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/819e9a2aada1f06290743bc04c1a9a62
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/da16fb2f3d8d547977731bcaa78c12cb
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3271--3307
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [151]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [152]
+<use  "/srv/appraisalscribe-development/images/4c9e333a5bae6d618fc7994093dcbb86
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3323--3357
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [153]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [154]
+<use  "/srv/appraisalscribe-development/images/71ee252dc1ce41de31d2ed2c6424f292
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3373--3407
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [155]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [156]
+<use  "/srv/appraisalscribe-development/images/8b7e8de12d5d5f2675c16254316e497c
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3423--3457
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [157]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [158]
+<use  "/srv/appraisalscribe-development/images/80f2e3ddab41bb75bc99e5515aef8c07
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3473--3507
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [159]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [160]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [161]
+<use  "/srv/appraisalscribe-development/images/32e3dbd71f160cb4bde8fa1d8687062c
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3529--3561
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [162]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [163]
+<use  "/srv/appraisalscribe-development/images/9a03144e8065c10f4df0e323a2a9056c
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3572--3604
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [164]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [165]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [166]
+<use  "/srv/appraisalscribe-development/images/cbca15a5ba552c004431d80f5735efb6
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3621--3655
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [167]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [168]
+<use  "/srv/appraisalscribe-development/images/b2550d72898d367566ada7b18c57c938
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3671--3705
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [169]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [170]
+<use  "/srv/appraisalscribe-development/images/a61130afb6921ca78c0fc0e332ffce45
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3721--3755
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [171]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [172]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [173]
+<use  "/srv/appraisalscribe-development/images/d3b1de40841b2e5ffec65f95cb6c668f
+.jpg" >
+Underfull \hbox (badness 3815) in paragraph at lines 3776--3776
+[]|\EU1/NimbusRomanNo9L(0)/m/n/10.95 Figure 1: "River Avon
+
+<use  "/srv/appraisalscribe-development/images/04f5d7fad4968dc4be13e431575896de
+.jpg" >
+Underfull \hbox (badness 3815) in paragraph at lines 3780--3780
+[]|\EU1/NimbusRomanNo9L(0)/m/n/10.95 Figure 2: "River Avon
+
+<use  "/srv/appraisalscribe-development/images/4ff81ff245e06c4c2258f24fc731335d
+.jpg" >
+Underfull \hbox (badness 3815) in paragraph at lines 3784--3784
+[]|\EU1/NimbusRomanNo9L(0)/m/n/10.95 Figure 3: "River Avon
+
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3786--3820
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [174]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [175]
+<use  "/srv/appraisalscribe-development/images/661c6af7e995861f7945e35d7c315ccd
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/cb98e8aea1d99b4c85b6900fa797a4e4
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/4ce5948ebc10d0133d13f64a74527e82
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3845--3879
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [176]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [177]
+<use  "/srv/appraisalscribe-development/images/db710334c674e6bf0326ecc0ab912490
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/7f0ac64a381d6e8d3059784a1543818c
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/5294147c94d745a3829fd4eb1e37ef1a
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3905--3939
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [178]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [179]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [180]
+<use  "/srv/appraisalscribe-development/images/8300070496568aee7d3528381384892a
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 3958--3992
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [181]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [182]
+<use  "/srv/appraisalscribe-development/images/6b3cd623fe6740f1144d8e589ef689e3
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4011--4043
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [183]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [184]
+<use  "/srv/appraisalscribe-development/images/c4885b6b06e47a06e11f3a464195040f
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/f4b00443528e4580daf437f4b91dd79f
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/e6ea1f6d41cb9bdf619ba781e25123cb
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/aed709404da278d80f6b44aea626c101
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4076--4115
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [185]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [186]
+<use  "/srv/appraisalscribe-development/images/2085d18dafdf241e11d06020beec486c
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4134--4168
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [187]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [188]
+<use  "/srv/appraisalscribe-development/images/b5d810496d26defe19432c1a7ecb32e2
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/d14d81d4a1c663876298718b540367b2
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4190--4230
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [189]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [190]
+<use  "/srv/appraisalscribe-development/images/3e70961707242a6d415a7af1fd346ee2
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4249--4283
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [191]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [192]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [193]
+<use  "/srv/appraisalscribe-development/images/00d2355d53e14f05be4866780837d6f5
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4316--4350
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [194]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [195]
+<use  "/srv/appraisalscribe-development/images/381f37d9896e36997f66df13c8c39a94
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4369--4403
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [196]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [197]
+<use  "/srv/appraisalscribe-development/images/75c61982d34a3e4b0dc025c4a4c776a7
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4414--4448
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [198]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [199]
+<use  "/srv/appraisalscribe-development/images/d11ac8d1aac9bcaf3d0273f31970d49e
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4459--4491
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [200]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [201]
+<use  "/srv/appraisalscribe-development/images/e681c2c7360ac987e2d532bb4581eacc
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4502--4536
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [202]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [203]
+<use  "/srv/appraisalscribe-development/images/37d72a7263b2105929be47c9b03066b3
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4547--4581
+ [] [] 
+
+Overfull \hbox (0.15707pt too wide) in paragraph at lines 4582--4582
+[] \EU1/NimbusRomanNo9L(0)/bx/n/12 Description: \EU1/NimbusRomanNo9L(0)/m/n/12 
+Abstract composition with elongated headless creature with large orange foot ag
+ainst
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [204]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [205]
+<use  "/srv/appraisalscribe-development/images/fe34b42e60e605f0164a77a54cabf636
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4592--4626
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [206]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [207]
+<use  "/srv/appraisalscribe-development/images/d563bed09b0fe2f5676c699a9c4e3c7e
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4637--4671
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [208]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [209]
+<use  "/srv/appraisalscribe-development/images/79af9c49a527fe08dd9b76c5025f412c
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4682--4716
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [210]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [211]
+<use  "/srv/appraisalscribe-development/images/b6fa88c279be86767c1afac2acc1c32d
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4727--4761
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [212]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [213]
+<use  "/srv/appraisalscribe-development/images/a21b981134bdd04d1adfc756de68baf5
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4772--4806
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [214]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [215]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [216]
+<use  "/srv/appraisalscribe-development/images/0cd2f6fbec6892c62b7d5fd2daf21389
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4826--4860
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [217]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [218]
+<use  "/srv/appraisalscribe-development/images/984ef163e03d126ac8e6b1f2aa6e1405
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4879--4913
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [219]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [220]
+<use  "/srv/appraisalscribe-development/images/c13c5206440510e60bb8809c83537211
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4929--4963
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [221]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [222]
+<use  "/srv/appraisalscribe-development/images/980f70656794c9c130fee6b3cdef350c
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 4982--5014
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [223]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [224]
+Overfull \hbox (7.49171pt too wide) in paragraph at lines 5027--5029
+[]\EU1/NimbusRomanNo9L(0)/m/n/12 ####Biography Kenneth Price is an American cer
+amic artist and printmaker. He studied at Chouinard
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [225]
+<use  "/srv/appraisalscribe-development/images/3553d70720a43e9eb6a26e49529904ee
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/7dbd8c170e532e5a8556a13957ea7512
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/4ee732082bd75d9de0aabefd50164c22
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/57fd8187c1695b876059d8ce6a207032
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/f6c043eb41db906b898c7bd92651b566
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [226]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5055--5089
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [227]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [228]
+<use  "/srv/appraisalscribe-development/images/74206af96a5cfcd1a87fd15bf2f8d9be
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5108--5142
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [229]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [230]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [231]
+<use  "/srv/appraisalscribe-development/images/039443a20b952f7bd0e4152c437525ae
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5173--5207
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [232]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [233]
+<use  "/srv/appraisalscribe-development/images/87189138bc91d645aca06a78fe14f686
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5226--5260
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [234]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [235]
+<use  "/srv/appraisalscribe-development/images/64a25ff04f7d02f61726764023d5372d
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5288--5322
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [236]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [237]
+<use  "/srv/appraisalscribe-development/images/ee7d5c7dfd2ea20c0f234c6948d291db
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/dfcd24b8439c6e486370ae894c548faa
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/33f7ba0753891f464000700d82a2ba0f
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/0f1165b198ad572655175402c7b3c183
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/ca6b4afd54bc11299162e31ddec7d44f
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [238]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5360--5394
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [239]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [240]
+<use  "/srv/appraisalscribe-development/images/a1e3e46b46b0fc405280e9ab061e4f8e
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5413--5447
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [241]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [242]
+<use  "/srv/appraisalscribe-development/images/fbae72ec39308d278382353e658ce268
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5466--5500
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [243]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [244]
+<use  "/srv/appraisalscribe-development/images/443284b25b7159016f5d0dab93dbc224
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5519--5551
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [245]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [246]
+<use  "/srv/appraisalscribe-development/images/2b28daa6b837150bf3b7b4cb8c25ad57
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5570--5604
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [247]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [248]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [249]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [250]
+<use  "/srv/appraisalscribe-development/images/c596bb6422c4b822a465a7ab075b6dc5
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5647--5681
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [251]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [252]
+<use  "/srv/appraisalscribe-development/images/8fb18e4f7dae924e2760decd2d962494
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5692--5726
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [253]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [254]
+<use  "/srv/appraisalscribe-development/images/934dae4581ddf4b8a8b15a2f40fd303e
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5737--5771
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [255]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [256]
+<use  "/srv/appraisalscribe-development/images/dc6da11d0613cdd2bec05d2fe71b3a02
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/47b3e5eb41cec94ad5502b5a7838dabe
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/d93ed7d1067a44a2c3c86ff4b6c8bfbd
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/b302d96bcbd13abfa9637995ce7d1872
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/2563b599adc7ba27f9b8109b91fe0b3a
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/d8165bc77f90723350e3184761396b2a
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/ccab70750e3c58cb0d9b06a278767a53
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/91fe93d4e8422674eb95ea548e5f59f1
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [257]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5805--5839
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [258]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [259]
+<use  "/srv/appraisalscribe-development/images/0f1e951786d27deac4c540475c5d7f58
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5858--5886
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [260]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [261]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [262]
+<use  "/srv/appraisalscribe-development/images/8e49d3d4b7e42f1a4af015c625eb82ed
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/f8d875ee9fc57d57ce64c5d9de79a006
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/84f4723d5e16bca8f8c14ae548ca524a
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5919--5953
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [263]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [264]
+<use  "/srv/appraisalscribe-development/images/b55d3080018da44c06ee9190bdd0e7a2
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 5969--6003
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [265]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [266]
+<use  "/srv/appraisalscribe-development/images/a0d1120dc8a4ba43bd7d858cfe180c83
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6019--6053
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [267]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [268]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [269]
+<use  "/srv/appraisalscribe-development/images/1ff4edcf578e4a524e9441336defd815
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6075--6105
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [270]
+<use  "/srv/appraisalscribe-development/images/deba4466d20e96cebdc38dd8da7984fc
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6116--6148
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [271]
+<use  "/srv/appraisalscribe-development/images/5ba1ae894f2b945511e850f3d0c9c50a
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/f55f0ee8c3bff1c745592d7de45be313
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/672620235efe2e7fa0c3af2d4452b1aa
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6168--6202
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [272]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [273]
+Overfull \hbox (4.76103pt too wide) in paragraph at lines 6215--6217
+[]\EU1/NimbusRomanNo9L(0)/m/n/12 ####Biography Born in Rumania in 1914, the art
+ist studied philosophy at the University of Bucharest
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [274]
+<use  "/srv/appraisalscribe-development/images/15508ff524d9b28f45625e950ff36ab3
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6226--6260
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [275]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [276]
+<use  "/srv/appraisalscribe-development/images/b8689aa7891ae31a9b7f7906f67f04dd
+.jpg" >
+Underfull \hbox (badness 1028) in paragraph at lines 6308--6309
+[]|\EU1/NimbusRomanNo9L(0)/m/n/12 Signed lower right image “Steinberg”; edition
+ number
+
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6283--6317
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [277]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [278]
+<use  "/srv/appraisalscribe-development/images/750765e03ccf3f5529c4ca17badec7b8
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6336--6370
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [279]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [280]
+<use  "/srv/appraisalscribe-development/images/5ce215f59a7d4c7c69bddaf2f17fb864
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6389--6423
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [281]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [282]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [283]
+<use  "/srv/appraisalscribe-development/images/3a18d7e0829f541def22d6a7051d1dc6
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6447--6481
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [284]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [285]
+<use  "/srv/appraisalscribe-development/images/24616ac5c35e6deab297245075dbbac8
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6492--6524
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [286]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [287]
+<use  "/srv/appraisalscribe-development/images/9640dbfadd37eaa48dee93e049724326
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6535--6569
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [288]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [289]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [290]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [291]
+<use  "/srv/appraisalscribe-development/images/873290ffbcfab30a7e09e7518e7ea5f3
+.jpg" >
+Underfull \hbox (badness 1603) in paragraph at lines 6611--6611
+[]|\EU1/NimbusRomanNo9L(0)/m/n/10.95 Figure 1: "Oranges on Branches (March 18,
+
+<use  "/srv/appraisalscribe-development/images/0115e1373adfb7d7ce344aec95346f45
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/92fe57312b71ce6aa03a5002033440df
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6622--6664
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [292]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [293]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [294]
+<use  "/srv/appraisalscribe-development/images/dc6fff1cbb0b124c871a3358ce7b6d58
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6688--6720
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [295]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [296]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [297]
+<use  "/srv/appraisalscribe-development/images/572d26f97c5f0cbe5ac29b6528663314
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6744--6772
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [298]
+<use  "/srv/appraisalscribe-development/images/6ad98baff1e17bd7402fee3e8d8d2a3e
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6783--6813
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [299]
+<use  "/srv/appraisalscribe-development/images/7cc89110ef241567d7ffc6868ee58526
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6824--6854
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [300]
+<use  "/srv/appraisalscribe-development/images/c3c6ece173bfc5ee31fd1bb6e5c2111e
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6865--6895
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [301]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [302]
+<use  "/srv/appraisalscribe-development/images/05edf2cfaf716271e5254e3f109e1f81
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6918--6952
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [303]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [304]
+<use  "/srv/appraisalscribe-development/images/7822735311d18b7230b5840ee1994198
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 6971--7005
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [305]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [306]
+<use  "/srv/appraisalscribe-development/images/f8aa265f3f05c577fb04b90f97fd920d
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7024--7058
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [307]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [308]
+<use  "/srv/appraisalscribe-development/images/da4a81637c62a1f4df526abad652ab51
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7077--7111
+ [] [] 
+
+Overfull \hbox (1.55305pt too wide) in paragraph at lines 7112--7112
+[] \EU1/NimbusRomanNo9L(0)/bx/n/12 Description: \EU1/NimbusRomanNo9L(0)/m/n/12 
+Figurative composition with strong diagonals of flowers with long stems in a ro
+unded
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [309]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [310]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [311]
+<use  "/srv/appraisalscribe-development/images/d0f8b249792878fa6a4e7d6d98e43ae9
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7133--7167
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [312]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [313]
+<use  "/srv/appraisalscribe-development/images/4a47d32efcbe49b7375bdba903e0052f
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7178--7212
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [314]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [315]
+<use  "/srv/appraisalscribe-development/images/db3e9da5d49cb83349837eb350e1368b
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/fbec71a62b0ed3bb89f4223678301e8c
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7228--7262
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [316]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [317]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [318]
+<use  "/srv/appraisalscribe-development/images/4b0cef8961e862c5640baa2bf5172b54
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7288--7322
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [319]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [320]
+<use  "/srv/appraisalscribe-development/images/b287640899880c7d7f96e9765c5f1a93
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7341--7375
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [321]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [322]
+<use  "/srv/appraisalscribe-development/images/ad895d9164951e97220dd8c59ddc38d2
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7394--7428
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [323]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [324]
+<use  "/srv/appraisalscribe-development/images/fdd98ed556cb3b7df26cdbe097de5754
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/dcf298f7b2f7c123c2dd46163b53923c
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/63f62dd2505b21560c19b33ba1780f68
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/0feb9a3e76123e8813be5dd0ec94fc63
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/35bc81b63870ddb10ceeb8c0033df7f7
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/0ff0a4f23d0b78437257dcae29932ffb
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7469--7503
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [325]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [326]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [327]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [328]
+<use  "/srv/appraisalscribe-development/images/7db6c4512006ad1ef36dc755c4233fd9
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7525--7557
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [329]
+Overfull \hbox (4.19304pt too wide) in paragraph at lines 7562--7563
+[]\EU1/NimbusRomanNo9L(0)/m/n/12 The same lithograph as the subject property so
+ld through Leslie Hindman Auctioneers on 10/12/2007
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [330]
+<use  "/srv/appraisalscribe-development/images/87e12daa1c17dbf95d749eb591ebd766
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7573--7605
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [331]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [332]
+<use  "/srv/appraisalscribe-development/images/5d4c190187420245332a167ecf3bd24d
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7621--7655
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [333]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [334]
+<use  "/srv/appraisalscribe-development/images/f5e6cc6f329f83ddcd2027b9519afc1a
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7671--7703
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [335]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [336]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [337]
+<use  "/srv/appraisalscribe-development/images/1e367c2711e0d55661c1412fe09b6eca
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7725--7755
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [338]
+<use  "/srv/appraisalscribe-development/images/862541589ef3f1e1d76da86cb8652c8a
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 7766--7796
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [339]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [340]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [341]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [342]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [343]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [344]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [345]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [346]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [347]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [348]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [349]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [350]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [351]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [352]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [353] 
+AED: lastpage setting LastPage
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [354] (./rendered.aux) )
+(see the transcript file for additional information)
+Output written on rendered.pdf (354 pages).
+Transcript written on rendered.log.

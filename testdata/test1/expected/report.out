@@ -1,0 +1,133 @@
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian)
+entering extended mode
+(./report.ltx
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, pinyin, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo))
+(/usr/share/texmf-texlive/tex/xelatex/fontspec/fontspec.sty
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty)
+(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texmf-texlive/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-texlive/tex/generic/xkeyval/keyval.tex)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/xelatex/euenc/eu1enc.def)
+(/usr/share/texmf-texlive/tex/xelatex/euenc/eu1lmr.fd))
+fontspec.cfg loaded.
+(/usr/share/texmf-texlive/tex/xelatex/fontspec/fontspec.cfg))
+(/usr/share/texmf-texlive/tex/xelatex/xecjk/xeCJK.sty)
+(/usr/share/texmf-texlive/tex/latex/lastpage/lastpage.sty)
+(/usr/share/texmf-texlive/tex/latex/paralist/paralist.sty)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/xelatex/xetex-def/xetex.def)))
+(/usr/share/texmf-texlive/tex/latex/float/float.sty)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/ulem.sty)
+(/usr/share/texmf-texlive/tex/latex/draftwatermark/draftwatermark.sty
+(/usr/share/texmf-texlive/tex/latex/everypage/everypage.sty)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+(/etc/texmf/tex/latex/config/color.cfg)))
+(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/section.sty
+`section.sty' <1.4>
+) (/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+(/usr/share/texmf-texlive/tex/latex/caption/ltcaption.sty))
+(/usr/share/texmf-texlive/tex/latex/caption/subcaption.sty) (./report.aux)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" >
+
+Package xeCJK Warning: Unknown CJK family `tt' is ignored.
+Use \setCJKfamilyfont to define a CJK family. on input line 66.
+
+[1] (./report.toc)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [2]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [3]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [4]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [5]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [6]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [7]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [8]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [9]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [10]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [11]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [12]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [13]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [14]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [15]
+Overfull \hbox (11.95331pt too wide) in paragraph at lines 172--173
+[]\EU1/NimbusRomanNo9L(0)/m/n/12 State of preservation is near original conditi
+on; object exhibits stabilization/conservation
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [16]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [17]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [18]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [19]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [20]
+<use  "testdata/test1/images/4c8997f0e6d391fac58f4e6c7e1f271c.jpg" >
+<use  "testdata/test1/images/be1a0ed775d85f900a7931589d420f06.jpg" >
+<use  "testdata/test1/images/737461707de644aeeb516d656d2d2f78.jpg" >
+<use  "testdata/test1/images/2da31547d1a5db8c20a24bf72077e1ac.jpg" >
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [21]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 256--283
+ [] [] 
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [22]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [23]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [24]
+<use  "testdata/test1/images/704d532632622fb5b3ea4a04cbdf58fe.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 332--356
+ [] [] 
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [25]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [26]
+<use  "testdata/test1/images/b4f70dbf94856352ce749b6d4bccf684.jpg" >
+<use  "testdata/test1/images/dedaf47625ac1c2237b44b7f781ce3e5.jpg" >
+<use  "testdata/test1/images/7097b7b8ef498fb6de710055bb5870d9.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 383--427
+ [] [] 
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [27]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [28]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [29]
+<use  "testdata/test1/images/468371c76d37ae6702d0feb882ad7414.jpg" >
+<use  "testdata/test1/images/ff14b1e06fdb7be500860de381ec0556.jpg" >
+<use  "testdata/test1/images/9ebd08e45a3dde33309858108a38a3c1.jpg" >
+<use  "testdata/test1/images/a34440237b704e8c4c87e45757f66550.jpg" >
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [30]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 479--511
+ [] [] 
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [31]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [32]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [33]
+<use  "testdata/test1/images/76d7208099435047291bd3acf59029c4.jpg" >
+<use  "testdata/test1/images/87e06bddd9edad4fe469cfd0fe469638.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 586--598
+ [] [] 
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [34]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [35]
+<use  "testdata/test1/images/3d749421345c62e8bf1a99563ee18e22.jpg" >
+<use  "testdata/test1/images/e81c07a3aa9672c3fc872acda313fb1d.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 614--629
+ [] [] 
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [36]
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [37]
+<use  "testdata/test1/images/56f3673408d3156563af121d226cec73.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 656--666
+ [] [] 
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [38]
+<use  "testdata/test1/images/58245c39fc744e175b339fddd258cd07.jpg" >
+Overfull \vbox (47.13512pt too high) has occurred while \output is active
+[39] <use  "testdata/test1/images/8fc87d4a37f12e930ab22aa2791d2254.jpg" >
+AED: lastpage setting LastPage [40] (./report.aux) )
+(see the transcript file for additional information)
+Output written on report.pdf (40 pages).
+Transcript written on report.log.

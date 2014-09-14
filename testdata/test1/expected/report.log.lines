@@ -1,0 +1,935 @@
+
+entering extended mode
+ %&-line parsing enabled.
+**report.ltx
+(./report.ltx
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, pinyin, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+
+\c@part=
+\count80
+
+\c@section=
+\count81
+
+\c@subsection=
+\count82
+
+\c@subsubsection=
+\count83
+
+\c@paragraph=
+\count84
+
+\c@subparagraph=
+\count85
+
+\c@figure=
+\count86
+
+\c@table=
+\count87
+
+\abovecaptionskip=
+\skip41
+
+\belowcaptionskip=
+\skip42
+
+\bibindent=
+\dimen102
+)
+(/usr/share/texmf-texlive/tex/xelatex/fontspec/fontspec.sty
+Package: fontspec 2008/08/09 v1.18 Advanced font selection for XeLaTeX
+
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+
+\c@zf@newff=
+\count88
+
+\c@zf@index=
+\count89
+
+\c@zf@script=
+\count90
+
+\c@zf@language=
+\count91
+
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+
+\calc@Acount=
+\count92
+
+\calc@Bcount=
+\count93
+
+\calc@Adimen=
+\dimen103
+
+\calc@Bdimen=
+\dimen104
+
+\calc@Askip=
+\skip43
+
+\calc@Bskip=
+\skip44
+LaTeX Info: Redefining 
+\setlength on input line 76.
+LaTeX Info: Redefining 
+\addtolength on input line 77.
+
+\calc@Ccount=
+\count94
+
+\calc@Cskip=
+\skip45
+)
+(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/share/texmf-texlive/tex/generic/xkeyval/xkeyval.tex
+
+\XKV@toks=
+\toks14
+
+\XKV@tempa@toks=
+\toks15
+
+\XKV@depth=
+\count95
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+
+(/usr/share/texmf-texlive/tex/generic/xkeyval/keyval.tex)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/xelatex/euenc/eu1enc.def
+File: eu1enc.def 2008/03/08 v0.1d Experimental unicode font encoding
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(/usr/share/texmf-texlive/tex/xelatex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2007/01/14 v1.3 Font defs for Latin Modern
+))
+LaTeX Info: Redefining 
+\itshape on input line 1163.
+LaTeX Info: Redefining 
+\slshape on input line 1166.
+LaTeX Info: Redefining 
+\scshape on input line 1169.
+LaTeX Info: Redefining 
+\upshape on input line 1172.
+
+fontspec.cfg loaded.
+(/usr/share/texmf-texlive/tex/xelatex/fontspec/fontspec.cfg))
+
+\c@zf@famc@Nimbus Roman No9 L=
+\count96
+Package fontspec Info: Defining font family for 'Nimbus Roman No9 L' with optio
+ns [] on input line 3.
+
+\c@zf@famc@Nimbus Sans L=
+\count97
+Package fontspec Info: Defining font family for 'Nimbus Sans L' with options []
+ on input line 3.
+
+\c@zf@famc@Nimbus Mono L=
+\count98
+Package fontspec Info: Defining font family for 'Nimbus Mono L' with options []
+ on input line 3.
+
+(/usr/share/texmf-texlive/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2009/09/30 2.3.10
+
+\xeCJK@cnta=
+\count99
+
+\xeCJK@cntb=
+\count100
+
+\xeCJK@cntc=
+\count101
+
+\xeCJK@cntd=
+\count102
+
+\xeCJK@cnte=
+\count103
+
+\xeCJK@dima=
+\dimen105
+LaTeX Info: Redefining 
+\rmfamily on input line 762.
+LaTeX Info: Redefining 
+\sffamily on input line 766.
+LaTeX Info: Redefining 
+\ttfamily on input line 770.
+
+\xeCJK@featureadded=
+\count104
+)
+
+\c@zf@famc@AR PL UKai TW MBE=
+\count105
+Package fontspec Info: Defining font family for 'AR PL UKai TW MBE'with options
+ [] on input line 4.
+Package fontspec Info: Could not resolve font AR PL UKai TW MBE/B (it might not
+ exist) on input line 4.
+Package fontspec Info: Could not resolve font AR PL UKai TW MBE/I (it might not
+ exist) on input line 4.
+Package fontspec Info: Could not resolve font AR PL UKai TW MBE/BI (it might no
+t exist) on input line 4.
+LaTeX Info: Redefining 
+\xeCJK@font@rm on input line 4.
+
+(/usr/share/texmf-texlive/tex/latex/lastpage/lastpage.sty
+Package: lastpage 1994/06/25 v0.1b LaTeX2e package for refs to last page number
+ (JPG)
+)
+(/usr/share/texmf-texlive/tex/latex/paralist/paralist.sty
+Package: paralist 2002/03/18 v2.3b Extended list environments (BS)
+
+\pltopsep=
+\skip46
+
+\plpartopsep=
+\skip47
+
+\plitemsep=
+\skip48
+
+\plparsep=
+\skip49
+
+\pl@lab=
+\toks16
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+
+\Gin@req@height=
+\dimen106
+
+\Gin@req@width=
+\dimen107
+)
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+
+\c@float@type=
+\count106
+
+\float@exts=
+\toks17
+
+\float@box=
+\box26
+
+\@float@everytoks=
+\toks18
+
+\@floatcapt=
+\box27
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/ulem.sty
+
+\UL@box=
+\box28
+
+\UL@hyphenbox=
+\box29
+
+\UL@skip=
+\skip50
+
+\UL@hook=
+\toks19
+
+\UL@pe=
+\count107
+
+\UL@pixel=
+\dimen108
+
+\ULC@box=
+\box30
+Package: ulem 2000/05/26
+
+\ULdepth=
+\dimen109
+)
+(/usr/share/texmf-texlive/tex/latex/draftwatermark/draftwatermark.sty
+Package: draftwatermark 2006/06/30 1.0 Put a gray textual watermark on document
+ pages
+
+(/usr/share/texmf-texlive/tex/latex/everypage/everypage.sty
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 130.
+)
+
+\sc@wm@fontsize=
+\skip51
+)
+(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+
+\LTleft=
+\skip52
+
+\LTright=
+\skip53
+
+\LTpre=
+\skip54
+
+\LTpost=
+\skip55
+
+\LTchunksize=
+\count108
+
+\LTcapwidth=
+\dimen110
+
+\LT@head=
+\box31
+
+\LT@firsthead=
+\box32
+
+\LT@foot=
+\box33
+
+\LT@lastfoot=
+\box34
+
+\LT@cols=
+\count109
+
+\LT@rows=
+\count110
+
+\c@LT@tables=
+\count111
+
+\c@LT@chunks=
+\count112
+
+\LT@p@ftn=
+\toks20
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/section.sty
+`section.sty' <1.4>
+
+\secindent=
+\dimen111
+
+\secpreskp=
+\skip56
+
+\secpstskp=
+\skip57
+
+\subindent=
+\dimen112
+
+\subpreskp=
+\skip58
+
+\subpstskp=
+\skip59
+
+\parpstskp=
+\skip60
+
+\c@hddepth=
+\count113
+) (/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+
+\fancy@headwidth=
+\skip61
+
+\f@ncyO@elh=
+\skip62
+
+\f@ncyO@erh=
+\skip63
+
+\f@ncyO@olh=
+\skip64
+
+\f@ncyO@orh=
+\skip65
+
+\f@ncyO@elf=
+\skip66
+
+\f@ncyO@erf=
+\skip67
+
+\f@ncyO@olf=
+\skip68
+
+\f@ncyO@orf=
+\skip69
+)
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+
+\captionmargin=
+\dimen113
+
+\captionmargin@=
+\dimen114
+
+\captionwidth=
+\dimen115
+
+\caption@indent=
+\dimen116
+
+\caption@parindent=
+\dimen117
+
+\caption@hangindent=
+\dimen118
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used on input line 1068.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: 
+\@makecaption = 
+\long macro:#1#2->
+\vskip 10
+\p@ 
+\setbox 
+\@
+tempboxa 
+\hbox {#1
+\ #2}
+\ifdim 
+\wd 
+\@tempboxa >
+\hsize #1
+\ #2
+\par 
+\else 
+\hbox to
+\
+hsize {
+\hfil 
+\box 
+\@tempboxa 
+\hfil }
+\fi .
+
+\c@ContinuedFloat=
+\count114
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/share/texmf-texlive/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2008/03/28 v1.2 longtable captions (AR)
+))
+(/usr/share/texmf-texlive/tex/latex/caption/subcaption.sty
+Package: subcaption 2008/08/31 v1.0b Adding subcaptions (AR)
+
+\c@subfigure=
+\count115
+
+\c@subtable=
+\count116
+) (./report.aux)
+
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid this).
+ on input line 60.
+
+\symlegacymaths=
+\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 60.
+LaTeX Font Info:    Redeclaring math accent 
+\acute on input line 60.
+LaTeX Font Info:    Redeclaring math accent 
+\grave on input line 60.
+LaTeX Font Info:    Redeclaring math accent 
+\ddot on input line 60.
+LaTeX Font Info:    Redeclaring math accent 
+\tilde on input line 60.
+LaTeX Font Info:    Redeclaring math accent 
+\bar on input line 60.
+LaTeX Font Info:    Redeclaring math accent 
+\breve on input line 60.
+LaTeX Font Info:    Redeclaring math accent 
+\check on input line 60.
+LaTeX Font Info:    Redeclaring math accent 
+\hat on input line 60.
+LaTeX Font Info:    Redeclaring math accent 
+\dot on input line 60.
+LaTeX Font Info:    Redeclaring math accent 
+\mathring on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\colon on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Gamma on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Delta on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Theta on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Lambda on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Xi on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Pi on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Sigma on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Upsilon on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Phi on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Psi on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\Omega on input line 60.
+LaTeX Font Info:    Redeclaring math symbol 
+\mathdollar on input line 60.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 60.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 60.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/NimbusRomanNo9L(0)/m/n on input lin
+e 60.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 60.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/NimbusRomanNo9L(0)/m/n on input li
+ne 60.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/NimbusRomanNo9L(0)/m/n --> EU1/NimbusRomanNo9L(0)/m
+/n on input line 60.
+LaTeX Font Info:    Overwriting math alphabet `
+\mathrm' in version `normal'
+(Font)                  EU1/NimbusRomanNo9L(0)/m/n --> EU1/NimbusRomanNo9L(0)/m
+/n on input line 60.
+LaTeX Font Info:    Overwriting math alphabet `
+\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/NimbusRomanNo9L(0)/m/it on input l
+ine 60.
+LaTeX Font Info:    Overwriting math alphabet `
+\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/NimbusRomanNo9L(0)/bx/n on input l
+ine 60.
+LaTeX Font Info:    Overwriting math alphabet `
+\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/NimbusSansL(0)/m/n on input line 6
+0.
+LaTeX Font Info:    Overwriting math alphabet `
+\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/NimbusMonoL(0)/m/n on input line 6
+0.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/NimbusRomanNo9L(0)/m/n --> EU1/NimbusRomanNo9L(0)/b
+x/n on input line 60.
+LaTeX Font Info:    Overwriting math alphabet `
+\mathrm' in version `bold'
+(Font)                  EU1/NimbusRomanNo9L(0)/m/n --> EU1/NimbusRomanNo9L(0)/b
+x/n on input line 60.
+LaTeX Font Info:    Overwriting math alphabet `
+\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/NimbusRomanNo9L(0)/bx/it on input
+ line 60.
+LaTeX Font Info:    Overwriting math alphabet `
+\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/NimbusSansL(0)/bx/n on input line
+ 60.
+LaTeX Font Info:    Overwriting math alphabet `
+\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/NimbusMonoL(0)/bx/n on input line 
+60.
+Package caption Info: Begin 
+\AtBeginDocument code.
+Package caption Info: End 
+\AtBeginDocument code.
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" >
+
+Package xeCJK Warning: Unknown CJK family `tt' is ignored.
+Use 
+\setCJKfamilyfont to define a CJK family. on input line 66.
+
+[1
+
+] (./report.toc)
+
+\tf@toc=
+\write3
+
+\openout3 = `report.toc'.
+
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [2]
+Underfull 
+\hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+NimbusRomanNo9L(0) on 
+input line 98.
+LaTeX Font Info:    No file OT1NimbusRomanNo9L(0).fd. on input line 98.
+LaTeX Font Info:    Font shape `OT1/NimbusRomanNo9L(0)/bx/n' undefined
+(Font)              using `OT1/cmr/m/n' instead
+(Font)              for symbol `textdollar' on input line 98.
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 121.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 121.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 121.
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [4]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [5]
+LaTeX Font Info:    Font shape `EU1/ARPLUKaiTWMBE(0)/m/it' undefined
+(Font)              using `EU1/ARPLUKaiTWMBE(0)/m/n' instead on input line 135.
+
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [6]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [7]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [8]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [9]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [10]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [11]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [12]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [13]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [14]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [15]
+Overfull 
+\hbox (11.95331pt too wide) in paragraph at lines 172--173
+[]
+\EU1/NimbusRomanNo9L(0)/m/n/12 State of preservation is near original conditi
+on; object exhibits stabilization/conservation
+ []
+
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [16]
+LaTeX Font Info:    Font shape `OT1/NimbusRomanNo9L(0)/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead
+(Font)              for symbol `textdollar' on input line 192.
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [17]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [18]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [19]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [20]
+File: testdata/test1/images/4c8997f0e6d391fac58f4e6c7e1f271c.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/4c8997f0e6d391fac58f4e6c7e1f271c.jpg" >
+File: testdata/test1/images/be1a0ed775d85f900a7931589d420f06.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/be1a0ed775d85f900a7931589d420f06.jpg" >
+File: testdata/test1/images/737461707de644aeeb516d656d2d2f78.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/737461707de644aeeb516d656d2d2f78.jpg" >
+File: testdata/test1/images/2da31547d1a5db8c20a24bf72077e1ac.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/2da31547d1a5db8c20a24bf72077e1ac.jpg" >
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [21]
+Overfull 
+\hbox (23.99998pt too wide) in alignment at lines 256--283
+ [] [] 
+ []
+
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [22]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [23]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [24]
+LaTeX Font Info:    Font shape `EU1/ARPLUKaiTWMBE(0)/bx/n' undefined
+(Font)              using `EU1/ARPLUKaiTWMBE(0)/m/n' instead on input line 325.
+
+File: testdata/test1/images/704d532632622fb5b3ea4a04cbdf58fe.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/704d532632622fb5b3ea4a04cbdf58fe.jpg" >
+Overfull 
+\hbox (23.99998pt too wide) in alignment at lines 332--356
+ [] [] 
+ []
+
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [25]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [26]
+File: testdata/test1/images/b4f70dbf94856352ce749b6d4bccf684.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/b4f70dbf94856352ce749b6d4bccf684.jpg" >
+File: testdata/test1/images/dedaf47625ac1c2237b44b7f781ce3e5.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/dedaf47625ac1c2237b44b7f781ce3e5.jpg" >
+File: testdata/test1/images/7097b7b8ef498fb6de710055bb5870d9.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/7097b7b8ef498fb6de710055bb5870d9.jpg" >
+Overfull 
+\hbox (23.99998pt too wide) in alignment at lines 383--427
+ [] [] 
+ []
+
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [27]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [28]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [29]
+File: testdata/test1/images/468371c76d37ae6702d0feb882ad7414.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/468371c76d37ae6702d0feb882ad7414.jpg" >
+File: testdata/test1/images/ff14b1e06fdb7be500860de381ec0556.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/ff14b1e06fdb7be500860de381ec0556.jpg" >
+File: testdata/test1/images/9ebd08e45a3dde33309858108a38a3c1.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/9ebd08e45a3dde33309858108a38a3c1.jpg" >
+File: testdata/test1/images/a34440237b704e8c4c87e45757f66550.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/a34440237b704e8c4c87e45757f66550.jpg" >
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [30]
+Overfull 
+\hbox (23.99998pt too wide) in alignment at lines 479--511
+ [] [] 
+ []
+
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [31]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [32]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [33]
+File: testdata/test1/images/76d7208099435047291bd3acf59029c4.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/76d7208099435047291bd3acf59029c4.jpg" >
+File: testdata/test1/images/87e06bddd9edad4fe469cfd0fe469638.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/87e06bddd9edad4fe469cfd0fe469638.jpg" >
+Overfull 
+\hbox (23.99998pt too wide) in alignment at lines 586--598
+ [] [] 
+ []
+
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [34]
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [35]
+File: testdata/test1/images/3d749421345c62e8bf1a99563ee18e22.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/3d749421345c62e8bf1a99563ee18e22.jpg" >
+File: testdata/test1/images/e81c07a3aa9672c3fc872acda313fb1d.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/e81c07a3aa9672c3fc872acda313fb1d.jpg" >
+Overfull 
+\hbox (23.99998pt too wide) in alignment at lines 614--629
+ [] [] 
+ []
+
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [36]
+LaTeX Font Info:    Try loading font information for OMS+NimbusRomanNo9L(0) on 
+input line 640.
+LaTeX Font Info:    No file OMSNimbusRomanNo9L(0).fd. on input line 640.
+LaTeX Font Info:    Font shape `OMS/NimbusRomanNo9L(0)/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbackslash' on input line 640.
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [37]
+File: testdata/test1/images/56f3673408d3156563af121d226cec73.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/56f3673408d3156563af121d226cec73.jpg" >
+Overfull 
+\hbox (23.99998pt too wide) in alignment at lines 656--666
+ [] [] 
+ []
+
+File: testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png Graphic file (
+type QTm)
+<use  "testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png" > [38]
+File: testdata/test1/images/58245c39fc744e175b339fddd258cd07.jpg Graphic file (
+type QTm)
+
+<use  "testdata/test1/images/58245c39fc744e175b339fddd258cd07.jpg" >
+Overfull 
+\vbox (47.13512pt too high) has occurred while 
+\output is active []
+
+
+[39]
+File: testdata/test1/images/8fc87d4a37f12e930ab22aa2791d2254.jpg Graphic file (
+type QTm)
+ <use  "testdata/test1/images/8fc87d4a37f12e930ab22aa2791d2254.jpg" >
+AED: lastpage setting LastPage [40] (./report.aux)
+LaTeX Font Info:    Some font shapes were not available, defaults substituted.
+ ) 
+Here is how much of TeX's memory you used:
+ 4595 strings out of 495713
+ 83674 string characters out of 1188882
+ 189376 words of memory out of 3000000
+ 7619 multiletter control sequences out of 15000+50000
+ 6730 words of font info for 55 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 53i,15n,92p,5144b,518s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on report.pdf (40 pages).
