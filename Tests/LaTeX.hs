@@ -20,7 +20,7 @@ import Data.Digest.Pure.MD5 (md5)
 import Data.Int (Int64)
 import Data.Maybe (fromJust)
 import Data.Monoid (mempty)
-import Data.Text (Text, split)
+import Data.Text (Text, split, unpack)
 import Data.Text.IO as T (readFile, writeFile)
 import Prelude hiding (readFile, writeFile)
 import System.Exit (ExitCode(ExitSuccess))
@@ -29,12 +29,16 @@ import System.Process (proc, CreateProcess(cwd), readProcess)
 import System.Process.Text (readCreateProcessWithExitCode)
 import Test.HUnit
 import Text.LaTeX (render)
+import Text.PrettyPrint (Doc, text)
 
 data ReportInfo
     = ReportInfo
       { reportId :: String
       , pdfHeadLength :: Int64
-      } 
+      }
+
+instance Eq Doc where
+    a == b = show a == show b
 
 tests :: Test
 tests = TestList (map latexRenderTest reports ++ map latexRunTest reports)
@@ -52,7 +56,7 @@ latexRenderTest r@(ReportInfo rid _) =
       expected <- T.readFile ("testdata/latexTest" </> rid </> "expected.ltx")
       let diff :: [[Diff [Text]]]
           diff = contextDiff 2 (split (== '\n') expected) (split (== '\n') latex)
-      assertEqual "LaTeX Render test" "" (show (prettyDiff ("expected" :: String) ("but got" :: String) diff))
+      assertEqual "LaTeX Render test" mempty (prettyDiff (text "expected") (text "but got") (text . unpack) diff)
 
 latexRender :: ReportInfo -> IO Text
 latexRender (ReportInfo rid _) = do
@@ -91,5 +95,5 @@ latexRunTest r@(ReportInfo rid len) =
       let pdfMD5 = either Left (Right . md5) pdf
           diff :: [[Diff [Text]]]
           diff = contextDiff 2 (split (== '\n') expectedXeTeXStdout) (split (== '\n') out)
-          outDiff = show (prettyDiff ("expected" :: String) ("but got" :: String) diff)
+          outDiff = show (prettyDiff (text "expected") (text "but got") (text . unpack) diff)
       assertEqual "LaTeX Run Test" ((ExitSuccess, mempty, mempty), (Right expectedMD5)) ((code, outDiff, err), pdfMD5)
