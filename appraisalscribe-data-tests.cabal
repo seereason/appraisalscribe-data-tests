@@ -11,12 +11,12 @@ build-type:     Custom
 
 flag local-appraisalscribe-data
   Description: Link to local source repo for appraisalscribe-data package
-  Default: True
+  Default: False
   Manual: True
 
 flag local-image-cache
   Description: Link to local source repo for image-cache package
-  Default: True
+  Default: False
   Manual: True
 
 Executable appraisalscribe-data-tests
