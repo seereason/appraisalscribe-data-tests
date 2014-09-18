@@ -10,7 +10,7 @@ import Test2 (test)
 
 main :: IO ()
 main =
-    do putStrLn "Note: you must be root, and there must be a database in /srv/appraisalscribe-development"
+    do putStrLn "Note: you must be root, there must be a database in /srv/appraisalscribe-development, and the server must not be running."
        counts <- runTestTT Main.tests
        putStrLn (show counts)
        case (errors counts + failures counts) of
