@@ -48,7 +48,8 @@ reports =
     [ ReportInfo "f7c5f607-ffd8-48bd-bf56-79b6708bfcd6" 1116676
     , ReportInfo "84923fa1-5ea3-47aa-ab73-d3428d98a1e2" 2539430
     , ReportInfo "cb26abd0-af8d-44a1-9176-3d4d21184bcd" 33744961
-    , ReportInfo "f9e4d387-1f31-4a76-8ec5-d5a01e195a08" 8863238 ]
+    , ReportInfo "f9e4d387-1f31-4a76-8ec5-d5a01e195a08" 8863238
+    , ReportInfo "638e563e-37f3-4071-9563-246bbaf0f769" 99999999 ]
 
 latexRenderTest :: ReportInfo -> Test
 latexRenderTest r@(ReportInfo rid _) =
