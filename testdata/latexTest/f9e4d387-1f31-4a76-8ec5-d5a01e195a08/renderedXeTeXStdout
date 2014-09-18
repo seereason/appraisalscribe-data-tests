@@ -1,0 +1,385 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian)
+ restricted \write18 enabled.
+entering extended mode
+(./rendered.ltx
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 10 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3basics.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3expan.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3tl.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3seq.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3token.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prop.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3msg.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3candidates.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty)
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \oldstylenums with arg. spec. 'm' on line 128.
+*************************************************
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \ReloadXunicode with arg. spec. 'm' on line 89.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareUTFmathsymbols with arg. spec. 'm' on
+* line 124.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \UseMathAsText with arg. spec. '' on line 133.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \UndeclareUTFcharacter with arg. spec.
+* 'O{\UTFencname }mm' on line 168.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \UndeclareUTFcomposite with arg. spec.
+* 'O{\UTFencname }mmm' on line 175.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareUTFcharacter with arg. spec.
+* 'O{\UTFencname }mm' on line 202.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareUTFcomposite with arg. spec.
+* 'O{\UTFencname }mmm' on line 273.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareEncodedCompositeCharacter with arg.
+* spec. 'mmmm' on line 303.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareEncodedCompositeAccents with arg. spec.
+* 'mmmm' on line 305.
+*************************************************
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+*** Reloading Xunicode for encoding 'EU1' ***
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xunicode-extra.def)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty)
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \nobreakspace with arg. spec. '' on line 3544.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \fontfamily with arg. spec. 'm' on line 3590.
+*************************************************
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/config/xeCJK.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/paralist/paralist.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/section/section.sty
+`section.sty' <1.4>
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+(/usr/share/texmf/tex/latex/CJK/CJKfntef.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty))
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \CJKunderdot with arg. spec. 'm' on line 395.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \CJKunderanysymbol with arg. spec. 'mmm' on line
+* 418.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-environment"
+* 
+* Redefining document environment 'CJKfilltwosides' with arg. spec. 'O{c}m' on
+* line 462.
+*************************************************
+) (./rendered.aux) (/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" >
+*************************************************
+* xeCJK warning: "CJKfamily-Unknown"
+* 
+* Unknown CJK family `\CJKttdefault' is being ignored.
+* 
+* Try to use `\setCJKmonofont[...]{...}' to define it.
+*************************************************
+[1] (./rendered.toc)
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [2]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [3]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [4]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [5]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [6]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [7]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [8]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [9]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [10]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [11]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [12]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [13]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [14]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [15]
+Overfull \hbox (66.61703pt too wide) in paragraph at lines 227--227
+[]\EU1/NimbusRomanNo9L(0)/m/n/12 Choi San, “Zhang Daqian’s Artistic Activities 
+in Macau”, http://www.icm.gov.mo/exhibition.daqian.Activity.asp 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [16]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [17]
+Overfull \hbox (13.40532pt too wide) in paragraph at lines 230--231
+[]\EU1/NimbusRomanNo9L(0)/m/n/12 State of preservation is near original conditi
+on; object exhibits stabilization/conservation
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [18]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [19]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [20]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [21]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [22]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [23]
+<use  "/srv/appraisalscribe-development/images/fc7c2917df974bb2acfb7b91325de9c3
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/88f31e8dc0f140e9aefa0a4f23f3469d
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/15a93b68c411e0a8046dca0d411db3c9
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/5b832ca1e97f357594ae44c4b5e4b999
+.jpg" >
+Underfull \hbox (badness 7576) in paragraph at lines 320--320
+[]|\EU1/NimbusRomanNo9L(0)/m/n/10.95 Figure 1.4. Comparable, "Trading
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [24]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 322--356
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [25]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [26]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [27]
+<use  "/srv/appraisalscribe-development/images/9c6c3a065f72f44ad28b37f61bcbb6fc
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c07b3f432fd5ae3ddc368de4e1c9c7d4
+.jpg" >
+Underfull \hbox (badness 8113) in paragraph at lines 386--386
+[]|\EU1/NimbusRomanNo9L(0)/m/n/10.95 Figure 2.2. Comparable, "Lady
+
+<use  "/srv/appraisalscribe-development/images/7097b7b8ef498fb6de710055bb5870d9
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/dedaf47625ac1c2237b44b7f781ce3e5
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [28]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 397--438
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [29]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [30]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [31]
+<use  "/srv/appraisalscribe-development/images/8f2d367465cc53f2aea52407d6645a02
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/0d226504c14f6f20a9fc55bd7cf5404a
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/58ce9480bb9774bcac28c0932a065e06
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/322571af919697c6d1e682a3e798a2a4
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [32]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 476--516
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [33]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [34]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [35]
+<use  "/srv/appraisalscribe-development/images/7ae799bc00d2263691c4531bc645c38c
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/93d0c78e6453d8d710911ef72ae185d4
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/62c00ec10723844b31d5be5d2d956f75
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/9020a676f882a28563ffaa66b2140103
+.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
+\EU1/NimbusRomanNo9L(0)/m/n/10.95 parable, "Red
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [36]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 554--584
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [37]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [38]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [39]
+<use  "/srv/appraisalscribe-development/images/5c95683b62517cd570cf3676b87451f7
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 609--641
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [40]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [41]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [42]
+<use  "/srv/appraisalscribe-development/images/038deeb41510b75c30487110316c5b94
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/be5402c1a4534d1b91e12c08417ab9ae
+.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 668--668
+[]|\EU1/NimbusRomanNo9L(0)/m/n/10.95 Figure 6.2 Comparable,
+
+Underfull \hbox (badness 8189) in paragraph at lines 668--668
+\EU1/NimbusRomanNo9L(0)/m/n/10.95 Signed print sold through
+
+<use  "/srv/appraisalscribe-development/images/9070efee3a55e43b12b8170abccd0527
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [43]
+Underfull \hbox (badness 10000) in paragraph at lines 696--697
+[]|\EU1/NimbusRomanNo9L(0)/m/n/12 Printed inscription: \EU1/ARPLUKaiTWMBE(0)/m/
+n/12 倣 漠 高 窟 唐 人 筆 作\EU1/NimbusRomanNo9L(0)/m/n/12 □□□\EU1/ARPLUKaiTWMBE(0)/m/n
+/12 天
+
+Underfull \hbox (badness 2961) in paragraph at lines 696--697
+\EU1/ARPLUKaiTWMBE(0)/m/n/12 女\EU1/NimbusRomanNo9L(0)/m/n/12 (Unexpected XTag: 
+NTree (XTag "br" []) [])Imi-
+
+Overfull \hbox (23.99998pt too wide) in alignment at lines 675--711
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [44]
+Overfull \hbox (3.63573pt too wide) in paragraph at lines 723--724
+\EU1/NimbusRomanNo9L(0)/m/n/12 00655] Modern and Contemporary Chinese Paintings
+ and Calligraphy Sold: $21,780, 138,000
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [45]
+<use  "/srv/appraisalscribe-development/images/94b19b4cbbb19910f378733be3b0a120
+.jpg" >
+<use  "/srv/appraisalscribe-development/images/3e46ea7d75578499dee73a35d5540716
+.jpg" >
+Overfull \hbox (23.99998pt too wide) in alignment at lines 739--769
+ [] [] 
+
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [46]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [47]
+<use  "/srv/appraisalscribe-development/images/c3bd1388b41fa5d956e4308ce518a8bd
+.png" > [48]
+<use  "/srv/appraisalscribe-development/images/58245c39fc744e175b339fddd258cd07
+.jpg" > 
+AED: lastpage setting LastPage
+
+Overfull \vbox (47.13512pt too high) has occurred while \output is active
+[49] (./rendered.aux) )
+(see the transcript file for additional information)
+Output written on rendered.pdf (49 pages).
+Transcript written on rendered.log.

@@ -2,12 +2,12 @@
 
 \usepackage{fontspec}\setmainfont{Nimbus Roman No9 L}\setsansfont{Nimbus Sans L}\setmonofont{Nimbus Mono L}\usepackage{xeCJK}
 \setCJKmainfont{AR PL UKai TW MBE}\newcommand{\effectivedate}{September 10th, 2008}
-\newcommand{\reportdate}{}
+\newcommand{\reportdate}{~}
 
 \newcommand{\authorsignature}{
-\vskip 0.2in
+\vskip 0.20000in
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}\hspace{3in} & \hspace{1in} \\ \cline{1-1} \cline{2-2}
-(Enter Author Credentials) & Date \\
+(Missing) & Date \\
 \end{tabular*}
 }
 
@@ -22,29 +22,29 @@
 \usepackage{draftwatermark}
 \usepackage{longtable}
 
-\setlength{\hoffset}{0.0in}
-\setlength{\oddsidemargin}{0.0in}
-\setlength{\evensidemargin}{0.0in}
-\setlength{\textwidth}{6.5in}
+\setlength{\hoffset}{0.00000in}
+\setlength{\oddsidemargin}{0.00000in}
+\setlength{\evensidemargin}{0.00000in}
+\setlength{\textwidth}{6.50000in}
 
-\setlength{\voffset}{-0.5in}
-\setlength{\topmargin}{0.0in}
-\setlength{\headheight}{1.0in}
-\setlength{\headsep}{0.0in}
-\setlength{\textheight}{7.8in}
-\setlength{\footskip}{0.2in}
+\setlength{\voffset}{-0.50000in}
+\setlength{\topmargin}{0.00000in}
+\setlength{\headheight}{1.00000in}
+\setlength{\headsep}{0.00000in}
+\setlength{\textheight}{7.80000in}
+\setlength{\footskip}{0.20000in}
 
 \usepackage{section}
-\setlength{\secpreskp}{1.0pt}
-\setlength{\secpstskp}{1.0pt}
+\setlength{\secpreskp}{1.00000pt}
+\setlength{\secpstskp}{1.00000pt}
 \let\hdpos\centering\setcounter{hddepth}{1}
 \usepackage{fancyhdr}
-\fancyhead[HL]{}\fancyhead[HC]{\includegraphics[width=3.698715292167426in]{testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png}}\fancyhead[HR]{}\fancyfoot{}\fancyfoot[FC]{{\small{}\textbf{\hrulefill \\ CONFIDENTIAL \\ Fair Market Value for Estate Tax \\ Prepared by Thompson \& Martinez Fine Art Appraisals, Inc. \\ Effective Date of Valuation: September 10th, 2008 \\ Page \thepage \ of \pageref{LastPage}}}}\renewcommand{\headrulewidth}{0.0pt}
+\lhead{}\chead{\includegraphics[width=3.69872in]{testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png}}\rhead{}\lfoot{}\cfoot{{\small{}\textbf{\hrulefill\\CONFIDENTIAL\\Fair Market Value for Estate Tax\\Prepared by Thompson \& Martinez Fine Art Appraisals, Inc.\\Effective Date of Valuation: September 10th, 2008\\Page \thepage \ of \pageref{LastPage}}}}\rfoot{}\renewcommand{\headrulewidth}{0.00000pt}
 \def\addcontentsline#1#2#3{%
   \addtocontents{#1}{\protect\contentsline{#2}{#3}{\thepage \space of \pageref{LastPage}}}}
 \renewcommand{\contentsname}{\vskip 36pt Table of Contents}
 
-% \textwidth=6.5in
+% \textwidth=6.50000in
 \parskip 7.2pt
 \parindent 0pt
 
@@ -58,13 +58,21 @@
 \raggedbottom
 \date{}
 \begin{document}
-\thispagestyle{empty}
-\begin{centering}
-\includegraphics[width=5.7535571211493295in]{testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png}\vfill{}\textbf{A Self-Contained Appraisal Report for artworks by Zhang Daqian}\\
-\vspace{0.3in}{\large{}Intended Use: Estate Tax}\\
+\makexeCJKinactive\thispagestyle{empty}
+\begin{center}
+\includegraphics[width=5.75356in]{testdata/test1/images/c3bd1388b41fa5d956e4308ce518a8bd.png}\vfill{}\textbf{{\LARGE{}A Self-Contained Appraisal Report for artworks by Zhang Daqian}}\\
+
+\vspace{0.30000in}{\large{}Intended Use: Estate Tax}\\
+
 {\large{}Type of Value: Fair Market Value}\\
-\vspace{0.3in}{\large{}Client:} \\ {\large{}Juliet Choi} \\ \vspace{0.3in}{\large{}Appraised By:} \\ {\large{}Thompson \& Martinez Fine Art Appraisals, Inc.} \\ {\large{}EIN\#: 20-8308057} \\ \vspace{0.3in}{\large{}Date of Inspection: September 24th, 2013} \\ {\large{}Effective Date of Valuation: September 10th, 2008} \\ {\large{}Date of Report: \reportdate} \\ \vfill{}{\footnotesize{}Thompson \& Martinez Fine Art Appraisals, Inc.\\7445 Girard Avenue, \#6\\La Jolla, CA 92037\\Email: \texttt{appraiser@thompsonandmartinez.com}\\Web site: \texttt{www.thompsonandmartinez.com}}\\\end{centering}
-\newpage
+
+\vspace{0.30000in}{\large{}Client:} \\ {\large{}Juliet Choi} \\ \vspace{0.30000in}{\large{}Appraised By:}\\{\large{}~}\\{\large{}Thompson \& Martinez Fine Art Appraisals, Inc.}\\{\large{}EIN\#: 20-8308057}\\\vspace{0.30000in}{\large{}Date of Inspection: September 24th, 2013} \\ {\large{}Effective Date of Valuation: September 10th, 2008} \\ {\large{}Date of Report: \reportdate} \\ \vfill{}{\footnotesize{}Thompson \& Martinez Fine Art Appraisals, Inc.\\
+7445 Girard Avenue, \#6\\
+La Jolla, CA 92037\\
+Email: \texttt{appraiser@thompsonandmartinez.com}\\
+Web site: \texttt{www.thompsonandmartinez.com}}\\
+\end{center}
+\newpage{}
 \pagestyle{fancy}
 \vskip .4in
 \parskip 0ex
@@ -73,66 +81,68 @@
 
 \newpage{}\section{Letter of Transmittal}
 \begin{longtable}{lp{4in}}
-Date of Report: &  \\
-Client: &  \\
- & Juliet Choi \\
-Intended Use: & Estate Tax \\
-Type of Value: & Fair Market Value \\
-Approach: & Market Comparison Approach \\
-Date of Inspection: & September 24th, 2013 \\
-Effective Date of Valuation: & September 10th, 2008 \\
-Inspected By: & Natasha Bonilla Martinez, MA \\
+Date of Report: & ~\\
 
-\end{longtable}Dear Mrs. Choi:\\\\According to our contract signed by you on September 24th, 2013, we have prepared the following Self-Contained report for the property represented as belonging to Juliet Choi. The subject property consists of six paintings and a woodblock print .
+Client: & ~\\
+
+ & Juliet Choi\\
+
+Intended Use: & Estate Tax\\
+
+Type of Value: & Fair Market Value\\
+
+Approach: & Market Comparison Approach\\
+
+Date of Inspection: & September 24th, 2013\\
+
+Effective Date of Valuation: & September 10th, 2008\\
+
+Inspected By: & Natasha Bonilla Martinez, MA\\
+
+
+\end{longtable}Dear Mrs. Choi:
+
+According to our contract signed by you on September 24th, 2013, we have prepared the following Self-Contained report for the property represented as belonging to Juliet Choi. The subject property consists of six paintings and a woodblock print .
 
 
 You provided us with the information that indicates that the Brown family owns the subject properties listed above in their entirety. I examined the property in your presence at 7445 Girard Avenue, \#6, La Jolla, CA.
 
 
-This appraisal report provides the appraisal conclusion of
-Fair Market Value for the intended use of Estate Tax.
-Fair Market Value is defined as `The price at which the property would change hands between a willing buyer and a willing seller, neither being under any compulsion to buy or sell and both having reasonable knowledge of relevant facts. The fair market value of a particular item of property includible in the decedent's gross estate is not to be determined by a forced sale price. Nor is the fair market value of an item of property to be determined by the sale price of the item in a market other than that in which such item is most commonly sold to the public, taking into account the location of the item wherever appropriate.'' 26 CFR Estate Tax Regulation 20.2031-1(b).
+This appraisal report provides the appraisal conclusion of Fair Market Value for the intended use of Estate Tax.(Unexpected XTag: NTree (XTag "br" []) [])Fair Market Value is defined as `The price at which the property would change hands between a willing buyer and a willing seller, neither being under any compulsion to buy or sell and both having reasonable knowledge of relevant facts. The fair market value of a particular item of property includible in the decedent’s gross estate is not to be determined by a forced sale price. Nor is the fair market value of an item of property to be determined by the sale price of the item in a market other than that in which such item is most commonly sold to the public, taking into account the location of the item wherever appropriate.’’ 26 CFR Estate Tax Regulation 20.2031-1(b).
 
 
-After thorough consideration of available facts and statistics, the Fair Market Value for the subject property is
-\textbf{one hundred seventy two thousand seven hundred five dollars (\$172,705 with 6 unappraised items)}.
-The effective date of value for this appraisal is September 10th, 2008.
-This professional opinion is based upon my knowledge and experience in the valuation of fine arts. This appraisal is based on my research and analysis of the property and knowledge of relevant markets where the property are traded.
+After thorough consideration of available facts and statistics, the Fair Market Value for the subject property is \textbf{one hundred seventy two thousand seven hundred five dollars (\$172,705 with 6 unappraised items)}. The effective date of value for this appraisal is September 10th, 2008. This professional opinion is based upon my knowledge and experience in the valuation of fine arts. This appraisal is based on my research and analysis of the property and knowledge of relevant markets where the property are traded.
 
 
-This is a Self-Contained that was prepared to conform to
-the Code of Ethics of the American Society of Appraisers and the
-current version of the \emph{Uniform Standards of Professional Appraisal Practice, the 2012-2013 Edition} (USPAP), published by the Appraisal Foundation. I have no past, present or contemplated future interest in the property included in this report. my fee was not contingent on any value finding.
+This is a Self-Contained that was prepared to conform to the Code of Ethics of the American Society of Appraisers and the current version of the \emph{Uniform Standards of Professional Appraisal Practice, the 2012-2013 Edition} (USPAP), published by the Appraisal Foundation. I have no past, present or contemplated future interest in the property included in this report. my fee was not contingent on any value finding.
 
 
 This \pageref{LastPage} page report consists of a letter of transmittal, scope of work, definitions, privacy statement, assumptions and limiting conditions, certification, description, photographs, narrative, glossary, bibliography and credentials. All these elements must be present for the value conclusion to be valid.
 
 
-The information in this report is confidential. All notes,
-electronic, work copies and photographs remain the property of the appraiser and are retained for five years, and/or two years after the conclusion of any litigation. All documents are shredded or otherwise defaced prior to disposal.
+The information in this report is confidential. All notes, electronic, work copies and photographs remain the property of the appraiser and are retained for five years, and/or two years after the conclusion of any litigation. All documents are shredded or otherwise defaced prior to disposal.
 
 
-The submission of this report completes my assignment and obligations. Any further consultation, preparation of additional reports, testimony, or appearances in court or before any governmental
-forum in reference to the property described in this appraisal will require additional fees to cover the required services. The aforementioned fees will be billed at the rate commensurate with the timing of the appraisal.
+The submission of this report completes my assignment and obligations. Any further consultation, preparation of additional reports, testimony, or appearances in court or before any governmental forum in reference to the property described in this appraisal will require additional fees to cover the required services. The aforementioned fees will be billed at the rate commensurate with the timing of the appraisal.
 
 
 Thank you for allowing us to be of service to you.
 
 \authorsignature\newpage{}\newpage{}\section{Scope of Work}
-Thompson \& Martinez Fine Art Appraisals, Inc. was hired by  to reach an opinion of the Fair Market Value of seven artworks by Zhang Daqian belonging to the Choi family. Based on my discussion with Client, as well as the intended use of the report, the type and location of the subject properties and the effective date of valuation, the Appraiser has selected the type of value, the relevant market, the information researched and the analysis to be applied. To complete this assignment I consulted authoritative publications and on-line sources, reviewed published and on-line market data and interviewed knowledgeable dealers and others regarding the subject properties and their relevant markets.
+Thompson \& Martinez Fine Art Appraisals, Inc. was hired by ~ to reach an opinion of the Fair Market Value of seven artworks by Zhang Daqian belonging to the Choi family. Based on my discussion with Client, as well as the intended use of the report, the type and location of the subject properties and the effective date of valuation, the Appraiser has selected the type of value, the relevant market, the information researched and the analysis to be applied. To complete this assignment I consulted authoritative publications and on-line sources, reviewed published and on-line market data and interviewed knowledgeable dealers and others regarding the subject properties and their relevant markets.
 
 
 This report is intended to be an objective, independent, unbiased and credible analysis of known facts. During the course of my examination, research and analysis, I have endeavored to be accurate and to use due diligence. This opinion of value was developed using appraisal methods that are within the accepted standard of care for the appraisal profession and within the boundaries of typical practice.
 
 
-This appraisal document states the majority of information analyzed, the appraisal procedures followed, and the reasoning that supports the analysis, opinions and conclusions under the requirements of the \emph{Uniform Standards of Professional Appraisal Practice, the 2012-2013 Edition} (USPAP). It is considered a summary report. The documentation substantiating the value reported is held in the appraiser's files.
+This appraisal document states the majority of information analyzed, the appraisal procedures followed, and the reasoning that supports the analysis, opinions and conclusions under the requirements of the \emph{Uniform Standards of Professional Appraisal Practice, the 2012-2013 Edition} (USPAP). It is considered a summary report. The documentation substantiating the value reported is held in the appraiser’s files.
 
 \newpage{}\section{Type of Value}
 This report serves as documented evidence of this appraiser having witnessed the subject property and identified, described and valued the subject property in the context of determining Fair Market Value. \section{Intended Use}
 The intended use of this report, as stipulated, is to evaluate the subject properties and provide an assessment of Fair Market Value of a collection of contemporary art for the intended use of Estate Tax. No other use is valid or condoned.\section{Intended Users of this report}
 The intended users of this report are: Mrs. Juliet Choi and the IRS. There are no other intended users or uses.\section{Definition of Value}
-Fair Market Value is defined as ``The price at which the property would change hands between a willing buyer and a willing seller, neither being under any compulsion to buy or sell and both having reasonable knowledge of relevant facts. The fair market value of a particular item of property includible in the decedent's gross estate is not to be determined by a forced sale price. Nor is the fair market value of an item of property to be determined by the sale price of the item in a market other than that in which such item is most commonly sold to the public, taking into account the location of the item wherever appropriate.'' 26 CFR Estate Tax Regulation 20.2031-1(b).\section{Approaches to Value}
-For this appraisal three valuation methods were considered (from Soucy and Smith, eds, \emph{The Appraisal of Personal Property – Principles, Theories, and Practice Methods for the Professional Appraiser}, 1994.). The three valuation methods are:\begin{compactitem}\item[$\bullet$]\textbf{Cost Approach to Value} method estimates either the reproduction or replacement of a property, either new or depreciated.\item[$\bullet$]\textbf{Income Approach to Value}method estimates the present worth of anticipated future benefits of owning income producing properties or objects.\item[$\bullet$]\textbf{Market Comparison Approach to Value}method estimates value by comparison with properties sold in the relevant market with adjustments for all differences that affect value, such as differences in characteristics of value, in market layer, and in time exposed to the market in order to arrive at the most apposite estimate of value.\end{compactitem}For this appraisal three valuation methods were considered. The three valuation methods are (as defined by The American Society of Appraisers handbook, Principles of Valuation: Personal Property Valuation Methodology – Research and Analysis):
+Fair Market Value is defined as ``The price at which the property would change hands between a willing buyer and a willing seller, neither being under any compulsion to buy or sell and both having reasonable knowledge of relevant facts. The fair market value of a particular item of property includible in the decedent’s gross estate is not to be determined by a forced sale price. Nor is the fair market value of an item of property to be determined by the sale price of the item in a market other than that in which such item is most commonly sold to the public, taking into account the location of the item wherever appropriate.’’ 26 CFR Estate Tax Regulation 20.2031-1(b).\section{Approaches to Value}
+For this appraisal three valuation methods were considered (from Soucy and Smith, eds, \emph{The Appraisal of Personal Property – Principles, Theories, and Practice Methods for the Professional Appraiser}, 1994.). The three valuation methods are:\begin{compactitem}\item[$\bullet$]\textbf{Cost Approach to Value} method estimates either the reproduction or replacement of a property, either new or depreciated.\item[$\bullet$]\textbf{Income Approach to Value} method estimates the present worth of anticipated future benefits of owning income producing properties or objects.\item[$\bullet$]\textbf{Market Comparison Approach to Value} method estimates value by comparison with properties sold in the relevant market with adjustments for all differences that affect value, such as differences in characteristics of value, in market layer, and in time exposed to the market in order to arrive at the most apposite estimate of value.\end{compactitem}For this appraisal three valuation methods were considered. The three valuation methods are (as defined by The American Society of Appraisers handbook, Principles of Valuation: Personal Property Valuation Methodology – Research and Analysis):
 
 
 \begin{compactitem}
@@ -140,7 +150,7 @@ For this appraisal three valuation methods were considered (from Soucy and Smith
 \item[$\bullet$]Income Approach to Value method estimates the present worth of anticipated future benefits of owning income producing properties or objects.
 \item[$\bullet$]Market Comparison Approach to Value method estimates value by comparison with properties sold in the relevant market with adjustments for all differences that affect value, such as differences in characteristics of value, in market layer, and in time exposed to the market in order to arrive at the most apposite estimate of value.
 \end{compactitem}
-The Market Comparison Approach was chosen for this assignment. The Cost and Income Approaches to value were considered but not appropriate to this assignment. Although the cost approach would be able to replicate the subject properties in form, it would not have represented their age, history and desirability. The income approach also was not appropriate because an income could not easily be derived from these properties. The properties have been placed in the appropriate level of the market considering properties of similar quality, period, style, significance, condition, rarity, and utility, based on market data and comparable sales gathered in the appropriate markets. Market data includes auction records, retail and private sales, dealer's inventories, catalogues, published price lists and price guides. The appraisers relied on contacts, field notes and conversations with other professionals in this field. Sources are listed at the end of the report.
+The Market Comparison Approach was chosen for this assignment. The Cost and Income Approaches to value were considered but not appropriate to this assignment. Although the cost approach would be able to replicate the subject properties in form, it would not have represented their age, history and desirability. The income approach also was not appropriate because an income could not easily be derived from these properties. The properties have been placed in the appropriate level of the market considering properties of similar quality, period, style, significance, condition, rarity, and utility, based on market data and comparable sales gathered in the appropriate markets. Market data includes auction records, retail and private sales, dealer’s inventories, catalogues, published price lists and price guides. The appraisers relied on contacts, field notes and conversations with other professionals in this field. Sources are listed at the end of the report.
 
 \newpage{}\section{Privacy Policy}
 Thompson \& Martinez Fine Art Appraisals, Inc. is committed to keeping all appraisal-related data confidential in compliance with the current version of the \emph{Uniform Standards of Professional Appraisal Practice, the 2012-2013 Edition} (USPAP) as published by The Appraisal Foundation and relevant federal and state laws. We will not disclose confidential appraisal data to any third party without the written permission of the rightful owner of that data. We will not release a copy of an appraisal you have contracted through Thompson \& Martinez Fine Art Appraisals, Inc. to any third party without the written permission of the client.
@@ -152,22 +162,22 @@ Our policy specifies the protection of client information in the following ways:
 \begin{compactitem}
 \item[$\bullet$]We limit access to all information only to those who have a business or professional reason to know and only to non-affiliated parties as required by law.
 \item[$\bullet$]We maintain a secure office and computer environment to ensure that your information is not placed at unreasonable risk.
-\item[$\bullet$]The categories of non-public personal information that we collect from a client depend upon the scope of the client's appraisal engagement. This includes information about personal property assets, information about tax identification numbers, and other non-public information necessary. Additionally, it may include information about transactions between clients and third parties and information form third party sources.
-\item[$\bullet$]Unaffiliated third parties that require access to our clients' personal information, such as Federal and State tax regulators, insurance companies, and the like may only review company records as permitted under law.
+\item[$\bullet$]The categories of non-public personal information that we collect from a client depend upon the scope of the client’s appraisal engagement. This includes information about personal property assets, information about tax identification numbers, and other non-public information necessary. Additionally, it may include information about transactions between clients and third parties and information form third party sources.
+\item[$\bullet$]Unaffiliated third parties that require access to our clients’ personal information, such as Federal and State tax regulators, insurance companies, and the like may only review company records as permitted under law.
 \item[$\bullet$]We do not provide client information to mailing list vendors or solicitors for any reason.
 \item[$\bullet$]Personally identifiable information will be maintained during the time a client is a client of the company and for 5 years after the appraisal has been completed and/or 2 years after litigation as well as the ethical considerations as specified by \emph{Uniform Standards of Professional Appraisal Practice, the 2012-2013 Edition} (USPAP). After this required period of record retention, all such information will be destroyed.
 \end{compactitem}\newpage{}\section{Assumptions and Limiting Conditions}
-This appraisal has been made subject to the following general assumptions and limiting conditions.\begin{compactitem}\item[$\bullet$]Titles to the properties and present ownership of the properties are assumed to be good and marketable unless otherwise stated. Further, the Appraisal is made with the understanding that the present ownership of the subject properties include all rights that may be lawfully owned and is not subject to any encumbrances or indebtedness. The Client stated that she owns the properties; ownership was not researched or confirmed.\item[$\bullet$]This Appraisal assumes that there are no undisclosed conditions of the subject properties that would have an effect on the value conclusions. This Summary Appraisal is not limited by any hypothetical conditions or extraordinary assumptions. The reported analyses, opinions and conclusions are limited only by the reported assumptions and limiting conditions, and are personal, impartial and unbiased professional analyses, opinions and conclusions.\item[$\bullet$]The opinion of value expressed in this Appraisal Report is the result of and is subject to the data and research described in detail in the Appraisal Report. In the preparation of this report, the Appraisers have consulted a variety of sources that are documented either in the report or are available in the Appraisers' files. These sources are assumed to be reliable and accurate; however, the Appraisers take no responsibility for errors or omissions contained in these sources.\item[$\bullet$]No change to this report shall be made by anyone other than the Appraisers. The Appraisers retain the right to amend the Appraisal Report.\item[$\bullet$]The fee for this Appraisal is based solely on an hourly rate and is not dependent on any conclusion of value.\item[$\bullet$]The Appraiser assumes no responsibility for unforeseen changes in market conditions, nor is the inability to locate a potential buyer or replacement item, at the appraised value, if such is attempted by the client or any other person.\item[$\bullet$]For certain items in the collection no documented data to support Fair Market Value conclusions were found through extensive research. In these cases and others, expert opinions were sought out from collectors, retail dealers and experts at various auction houses on their opinions of the Fair Market Value for these pieces.\item[$\bullet$]Natasha Martinez, MA has personally inspected the subject properties. The opinion of value expressed in the Appraisal Report is the result of and is subject to the data and research described in detail in the Appraisal Report and on data retained in our files. The Appraisers have not knowingly withheld any significant information.\item[$\bullet$]Appraisers witness, identify and value subject property but do not claim authentication of the subject properties, unless otherwise noted.\item[$\bullet$]In the event of a dispute involving interpretation or application of this report, the ASA recommends that such a dispute shall be referred to a neutral third-party mediation service. The cost of such mediation shall be borne equally by both parties. In the event mediation is not successful, the parties should agree to submit the dispute to binding arbitration under the laws of the State of California.\item[$\bullet$]Disclosure of the contents of the appraisal Report is governed by the Bylaws and Regulations of the Appraisal Foundation USPAP 2012-2013. Neither all nor any part of the contents of this report (especially any conclusions as to the value or the identity of the Appraisers) shall be disseminated to the public through advertising, public relations, news, sales, or the media without the prior written consent and approval of the Appraisers.\item[$\bullet$]This Appraisal Report is valid only for the intended use, intended users and for the type of value stated in the appraisal. The values reported in this appraisal are valid only on the effective date of the appraisal, August, 5th, 2013.\item[$\bullet$]This report is valid only in the entirety of its 30 pages and is not valid of any page of the report is missing. Reproduction of the report must be made in its entirety. This report, or a copy of this report, may be transmitted to a third party or legal entity only in its entirety and only with the express written consent of the Client.\item[$\bullet$]My analyses, opinions, and conclusions were developed, and this report has been prepared, in conformity with the Code of Ethics as set forth by the American Society of Appraisers and the Uniform Standards of Professional Appraisal Practice, 2012-2013 of the Appraisal Foundation, Washington, D.C.\item[$\bullet$]The submission of this report completes the assignment and obligations. Any further consultation, preparation of additional reports, testimony, or appearances in court or before any governmental forum in reference to the property described in this appraisal will require additional fees to cover the required services.\end{compactitem}\newpage{}\section{Certification}
+This appraisal has been made subject to the following general assumptions and limiting conditions.\begin{compactitem}\item[$\bullet$]Titles to the properties and present ownership of the properties are assumed to be good and marketable unless otherwise stated. Further, the Appraisal is made with the understanding that the present ownership of the subject properties include all rights that may be lawfully owned and is not subject to any encumbrances or indebtedness. The Client stated that she owns the properties; ownership was not researched or confirmed.\item[$\bullet$]This Appraisal assumes that there are no undisclosed conditions of the subject properties that would have an effect on the value conclusions. This Summary Appraisal is not limited by any hypothetical conditions or extraordinary assumptions. The reported analyses, opinions and conclusions are limited only by the reported assumptions and limiting conditions, and are personal, impartial and unbiased professional analyses, opinions and conclusions.\item[$\bullet$]The opinion of value expressed in this Appraisal Report is the result of and is subject to the data and research described in detail in the Appraisal Report. In the preparation of this report, the Appraisers have consulted a variety of sources that are documented either in the report or are available in the Appraisers’ files. These sources are assumed to be reliable and accurate; however, the Appraisers take no responsibility for errors or omissions contained in these sources.\item[$\bullet$]No change to this report shall be made by anyone other than the Appraisers. The Appraisers retain the right to amend the Appraisal Report.\item[$\bullet$]The fee for this Appraisal is based solely on an hourly rate and is not dependent on any conclusion of value.\item[$\bullet$]The Appraiser assumes no responsibility for unforeseen changes in market conditions, nor is the inability to locate a potential buyer or replacement item, at the appraised value, if such is attempted by the client or any other person.\item[$\bullet$]For certain items in the collection no documented data to support Fair Market Value conclusions were found through extensive research. In these cases and others, expert opinions were sought out from collectors, retail dealers and experts at various auction houses on their opinions of the Fair Market Value for these pieces.\item[$\bullet$]Natasha Martinez, MA has personally inspected the subject properties. The opinion of value expressed in the Appraisal Report is the result of and is subject to the data and research described in detail in the Appraisal Report and on data retained in our files. The Appraisers have not knowingly withheld any significant information.\item[$\bullet$]Appraisers witness, identify and value subject property but do not claim authentication of the subject properties, unless otherwise noted.\item[$\bullet$]In the event of a dispute involving interpretation or application of this report, the ASA recommends that such a dispute shall be referred to a neutral third-party mediation service. The cost of such mediation shall be borne equally by both parties. In the event mediation is not successful, the parties should agree to submit the dispute to binding arbitration under the laws of the State of California.\item[$\bullet$]Disclosure of the contents of the appraisal Report is governed by the Bylaws and Regulations of the Appraisal Foundation USPAP 2012-2013. Neither all nor any part of the contents of this report (especially any conclusions as to the value or the identity of the Appraisers) shall be disseminated to the public through advertising, public relations, news, sales, or the media without the prior written consent and approval of the Appraisers.\item[$\bullet$]This Appraisal Report is valid only for the intended use, intended users and for the type of value stated in the appraisal. The values reported in this appraisal are valid only on the effective date of the appraisal, August, 5th, 2013.\item[$\bullet$]This report is valid only in the entirety of its 30 pages and is not valid of any page of the report is missing. Reproduction of the report must be made in its entirety. This report, or a copy of this report, may be transmitted to a third party or legal entity only in its entirety and only with the express written consent of the Client.\item[$\bullet$]My analyses, opinions, and conclusions were developed, and this report has been prepared, in conformity with the Code of Ethics as set forth by the American Society of Appraisers and the Uniform Standards of Professional Appraisal Practice, 2012-2013 of the Appraisal Foundation, Washington, D.C.\item[$\bullet$]The submission of this report completes the assignment and obligations. Any further consultation, preparation of additional reports, testimony, or appearances in court or before any governmental forum in reference to the property described in this appraisal will require additional fees to cover the required services.\end{compactitem}\newpage{}\section{Certification}
 The appraiser certifies and agrees that:\begin{compactitem}\item[$\bullet$]To the best of my knowledge and belief, the statements of fact contained in this report are true and correct.\item[$\bullet$]The reported analyses, opinions and conclusions are limited only by the reported assumptions and liming conditions. They are my personal, impartial and unbiased professional analyses, opinions and conclusions.\item[$\bullet$]I have no present or prospective interest in the property that is the subject of this report, and I have no personal interest with respect to the parties involved.\item[$\bullet$]I have performed no services as an appraiser or in any other capacity, regarding the property that is the subject of this report within the three year period immediately preceding acceptance of this assignment.\item[$\bullet$]I have no bias with respect to the property that is the subject of this report, or to the parties involved with this assignment.\item[$\bullet$]My engagement for this assignment was not contingent upon developing or reporting predetermined results.\item[$\bullet$]My compensation for completing this assignment is not contingent upon development or reporting of a predetermined value or direction in value that favors the cause of the client, the amount of the value opinion, the attainment of a stipulated result, or the occurrence of a subsequent event directly related to the intended use of this appraisal.\item[$\bullet$]My analyses, opinions and conclusions in this report were developed and prepared in conformity with the \emph{Uniform Standards of Professional Appraisal Practice, the 2012-2013 Edition} (USPAP).\item[$\bullet$]I have made a personal inspection of the property that is the subject of this report.\item[$\bullet$]This Appraiser prepared all the conclusions and opinions set forth in this report without any professional assistance.\end{compactitem}\authorsignature\newpage{}\section{Credentials}
-\subsection{}
-\newpage{}\section{Glossary}
-\begin{description}\item[Bai miao] 
+\subsection{~}
+~\newpage{}\section{Glossary}
+\begin{description}\item[Bai miao] ~
 \end{description}\newpage{}\section{Bibliography \& Authorities Consulted}
 \subsubsection{Experts Consulted}
 \subsubsection{Galleries \& Auction Houses}
-Bonhams San Francisco\\220 San Bruno Ave\\San Francisco, CA 94103\\Tel. 415-861-7500\\http://www.bonhams.com/\\China Guardian\\Zhongguo Jiade\\Christie's Los Angeles\\20 Rockefeller Plaza\\New York, NY 10020\\Tel. 212-636-2000\\Los Angeles Tel. 310-385-2600\\http://www.christies.com/\\Huayi International Auctions, LTD\\Guangzhou\\PRC\\Beijing Poly International Auctions\\Beijing Baoli\\Beijing, PRC\\Sothebys New York\\1334 York Ave\\New York, NY 10021\\Tel: 212-606-7000\\http://www.sothebys.com/\subsubsection{Internet Sources}
-AskArt\\www.askart.com\\Artnet\\www.artnet.com\subsubsection{Print Sources}
-Cumming, Robert, \emph{Art: A Field Guide}. New York: Knopf, 2001.\\Internal Revenue Service, 20 CFR, pt. 2031-1(b), 2011.\\Maloney, David, \emph{Appraising Personal Property: Principles and Methodology (5th edition)}. Frederick, Maryland: Appraisers Press, 2012.\\Soucy, Patricia and Janella N. Smyth, eds. \emph{The Appraisal of Personal Property: Principles, Theories and Practice Methods for the Professional Appraiser.} Washington, D.C.: American Society of Appraisers, 1994.\\\emph{Uniform Standards of Professional Appraisal Practice, the 2012-2013 Edition}(USPAP). Washington, D.C.: The Appraisal Foundation, 2012.\newpage{}\section{Condition Definitions}
+Bonhams San Francisco\\220 San Bruno Ave\\San Francisco, CA 94103\\Tel. 415-861-7500\\http://www.bonhams.com/{\vskip .1cm}China Guardian\\Zhongguo Jiade\\Christie’s Los Angeles\\20 Rockefeller Plaza\\New York, NY 10020\\Tel. 212-636-2000\\Los Angeles Tel. 310-385-2600\\http://www.christies.com/{\vskip .1cm}Huayi International Auctions, LTD\\Guangzhou\\PRC{\vskip .1cm}Beijing Poly International Auctions\\Beijing Baoli\\Beijing, PRC{\vskip .1cm}Sothebys New York\\1334 York Ave\\New York, NY 10021\\Tel: 212-606-7000\\http://www.sothebys.com/\subsubsection{Internet Sources}
+AskArt\\www.askart.com{\vskip .1cm}Artnet\\www.artnet.com\subsubsection{Print Sources}
+Cumming, Robert, \emph{Art: A Field Guide}. New York: Knopf, 2001.{\vskip .1cm}Internal Revenue Service, 20 CFR, pt. 2031-1(b), 2011.{\vskip .1cm}Maloney, David, \emph{Appraising Personal Property: Principles and Methodology (5th edition)}. Frederick, Maryland: Appraisers Press, 2012.{\vskip .1cm}Soucy, Patricia and Janella N. Smyth, eds. \emph{The Appraisal of Personal Property: Principles, Theories and Practice Methods for the Professional Appraiser.} Washington, D.C.: American Society of Appraisers, 1994.{\vskip .1cm}\emph{Uniform Standards of Professional Appraisal Practice, the 2012-2013 Edition}(USPAP). Washington, D.C.: The Appraisal Foundation, 2012.\newpage{}\section{Condition Definitions}
 \begin{description}\item[Excellent:] The object's stability and state of preservation (i.e. wear and/or losses to paper, decoration, pigment, chips etc.) exhibits stable condition or integrity; function or artistic intent is structurally sound; no restoration material added and no significant repairs.
 \item[Very Good:] State of preservation is near original condition; object exhibits stabilization/conservation possibly reflecting slight deterioration from original function or artistic intent.  Structural integrity is maintained.  Some repairs are evident and unobtrusive; no restoration, i.e. all original material.
 \item[Good:] State of preservation exhibits clearly its original function and artistic intent, however, the object shows considerable wear.  Stabilization, conservation, restoration reflect original function and maintain artistic intent and structural integrity.  Restoration and repairs are evident; i.e. there may be added material; or, repairs may be needed.
@@ -175,50 +185,62 @@ Cumming, Robert, \emph{Art: A Field Guide}. New York: Knopf, 2001.\\Internal Rev
 \item[Poor:] State of preservation indicates substantial deterioration compromising original form; the object needs structural stabilization, conservation, restoration and/or repairs.
 \end{description}\newpage{}\section{Appraised Item Summary}
 \begin{center}\begin{longtable}{|r|p{1in}|p{2in}|p{1in}|r|}\hline 
-\multicolumn{1}{|c|}{} & \multicolumn{1}{|c|}{Item} & \multicolumn{1}{|c|}{Artist} & \multicolumn{1}{|c|}{Type of Object} & \multicolumn{1}{|c|}{Amount} \\
+\multicolumn{1}{|c|}{} & \multicolumn{1}{|c|}{Item} & \multicolumn{1}{|c|}{Artist} & \multicolumn{1}{|c|}{Type of Object} & \multicolumn{1}{|c|}{Amount}\\
+
 \hline 
 \endfirsthead
 \multicolumn{5}{c}%
 {{\bfseries Appraised Item Summary (continued)}} \\
+
 \hline 
-\multicolumn{1}{|c|}{} & \multicolumn{1}{|c|}{Item} & \multicolumn{1}{|c|}{Artist} & \multicolumn{1}{|c|}{Type of Object} & \multicolumn{1}{|c|}{Amount} \\
+\multicolumn{1}{|c|}{} & \multicolumn{1}{|c|}{Item} & \multicolumn{1}{|c|}{Artist} & \multicolumn{1}{|c|}{Type of Object} & \multicolumn{1}{|c|}{Amount}\\
+
 \hline 
 \endhead
 \hline 
 \multicolumn{5}{|r|}{{Continued on next page}} \\
+
 \hline 
 \endfoot
 \hline 
-\multicolumn{4}{|l|}{{\bf Total of 1 (of 7) items:}} & \multicolumn{1}{|r|}{\$172,705} \\
+\multicolumn{4}{|l|}{{\bf Total of 1 (of 7) items:}} & \multicolumn{1}{|r|}{\$172,705}\\
+
 \hline 
 \endlastfoot
-1. & 01 & Zhang Daqian & Painting & \$172,705 \\
-2. & 02 & Zhang Daqian & Print & – \\
-3. & 03 & Zhang Daqian & Painting & – \\
-4. & 04 & Zhang Daqian & Painting & \uwave{US\$817,844.00} \\
-5. & 05 &  & Hanging scroll & – \\
-6. & 06 & – & Hanging Scroll & – \\
-7. & 07 &  & Fan & – \\
+1. & 01 & Zhang Daqian & Painting & \$172,705\\
+
+2. & 02 & Zhang Daqian & Print & –\\
+
+3. & 03 & Zhang Daqian & Painting & –\\
+
+4. & 04 & Zhang Daqian & Painting & \uwave{US\$817,844.00}\\
+
+5. & 05 & ~ & Hanging scroll & –\\
+
+6. & 06 & – & Hanging Scroll & –\\
+
+7. & 07 & ~ & Fan & –\\
+
 \end{longtable}\end{center}\newpage{}\section{Appraised Item Detail}
 
 \subsection{Market Overview}
 
-Zhang Daqian is recognized as one of China's modern masters. He is not only revered for his great skill in the techniques and styles of classical Chinese painting (he was also a notorious forger), but also for developing a new style of painting, merging Eastern and Western media of gouache and ink and colors on paper to create a hybrid Eastern-Western expressionist style. His career can be divided into two periods: before 1949 when he lived in China and produced work in the traditional manner, and after 1949, when he briefly stayed in Hong Kong and Macau and then moved to Brazil and finally on to Taiwan where he lived until his death. The paintings in the Choi family collection date from the 1930s and 1940s and are in the traditional style. The provenance of the collection is excellent. The paintings have been passed down directly to Mrs. Juliet Choi from her late father-in-law, Choi Hac-ting, who acquired the paintings from the artist as gifts and commissions. Additionally, evidence of the relationship between the Choi family and the painter is found in the inscriptions of the paintings, several of which mention family members. Additional documentation of the relationship between the artist and the Choi family is an article published by the Cultural Affairs office of Macau which recounts the three month period in 1949 when Zhang Daqian stayed at the Choi family compound in Macau (Choi San, ``Zhang Daqian's Artistic Activities in Macau'', http://www.icm.gov.mo/exhibition.daqian.Activity.asp)
+Zhang Daqian is recognized as one of China’s modern masters. He is not only revered for his great skill in the techniques and styles of classical Chinese painting (he was also a notorious forger), but also for developing a new style of painting, merging Eastern and Western media of gouache and ink and colors on paper to create a hybrid Eastern-Western expressionist style. His career can be divided into two periods: before 1949 when he lived in China and produced work in the traditional manner, and after 1949, when he briefly stayed in Hong Kong and Macau and then moved to Brazil and finally on to Taiwan where he lived until his death. The paintings in the Choi family collection date from the 1930s and 1940s and are in the traditional style. The provenance of the collection is excellent. The paintings have been passed down directly to Mrs. Juliet Choi from her late father-in-law, Choi Hac-ting, who acquired the paintings from the artist as gifts and commissions. Additionally, evidence of the relationship between the Choi family and the painter is found in the inscriptions of the paintings, several of which mention family members. Additional documentation of the relationship between the artist and the Choi family is an article published by the Cultural Affairs office of Macau which recounts the three month period in 1949 when Zhang Daqian stayed at the Choi family compound in Macau (Choi San, “Zhang Daqian’s Artistic Activities in Macau”, http://www.icm.gov.mo/exhibition.daqian.Activity.asp)
 
 
-The date of valuation, September 10th, 2008, falls at an unusual time in the global economy and the Chinese art market. A graph of Chinese art sales at auction in Appendix A indicates that the Chinese art market grew steadily from from 2004 through 2008, peaking in Spring, 2008. It appears that the global Autumn sales of Chinese art taken as a whole, was barely affected by the the global financial crisis as it unfolded after the bankruptcy of Lehman Brothers on September 15th. Moreover, according to a report by Art Market Monitor of Artron (AMMA), ``Art Market in China in 2012 - A Dialogue between East and West'', (p. 55) in 2009 the market entered a three year boom period which peaked in 2011. Art Economics, a research company that studies the international market, reports that after peaking in 2011, reported revenues of Chinese art sold at auction dropped off 24 percent in 2012, and that 2013 is expected to be modestly better than 2012. (``Forging an Art Market in China'', New York Times, October 28th, 2013.)
+The date of valuation, September 10th, 2008, falls at an unusual time in the global economy and the Chinese art market. A graph of Chinese art sales at auction in Appendix A indicates that the Chinese art market grew steadily from from 2004 through 2008, peaking in Spring, 2008. It appears that the global Autumn sales of Chinese art taken as a whole, was barely affected by the the global financial crisis as it unfolded after the bankruptcy of Lehman Brothers on September 15th. Moreover, according to a report by Art Market Monitor of Artron (AMMA), “Art Market in China in 2012 - A Dialogue between East and West”, (p. 55) in 2009 the market entered a three year boom period which peaked in 2011. Art Economics, a research company that studies the international market, reports that after peaking in 2011, reported revenues of Chinese art sold at auction dropped off 24 percent in 2012, and that 2013 is expected to be modestly better than 2012. (“Forging an Art Market in China”, New York Times, October 28th, 2013.)
 
 
-As one of China's modern masters, and one of the global art market's top grossing artists at auction, the market for Zhang Daqian's work has tracked the accelerating trajectory of the overall Chinese art market.(Appendix B). Zhang Daqian was a prolific painter, and, in any given year hundreds of his paintings (both authentic and fakes) come up at auction. Works can sell from the tens of thousands up to the tens of millions. On May 31st, 2011, a set of four hanging scrolls in ink and color on paper ``Lotus and Mandarin Ducks'' (1947), (each 72.64 inches x 37.40 inches) sold at Sotheby's, Hong Kong for \$24,513,000. In 2011, Zhang Daqian was the top-selling artist in the world at auction with reported sales of \$782.4 million, but in 2012 reported sales of his works fell to \$241.6 million (AMMA, 2012, p. ).
+As one of China’s modern masters, and one of the global art market’s top grossing artists at auction, the market for Zhang Daqian’s work has tracked the accelerating trajectory of the overall Chinese art market.(Appendix B). Zhang Daqian was a prolific painter, and, in any given year hundreds of his paintings (both authentic and fakes) come up at auction. Works can sell from the tens of thousands up to the tens of millions. On May 31st, 2011, a set of four hanging scrolls in ink and color on paper “Lotus and Mandarin Ducks” (1947), (each 72.64 inches x 37.40 inches) sold at Sotheby’s, Hong Kong for \$24,513,000. In 2011, Zhang Daqian was the top-selling artist in the world at auction with reported sales of \$782.4 million, but in 2012 reported sales of his works fell to \$241.6 million (AMMA, 2012, p. ).
 
 
-One important reason for this recent decline is that the Chinese art market is dysfunctional. According to a recent New York Times article, ``Forging an Art Market in China'' October 28th, 2013, ``... a six-month review...found that many of the sales — transactions reported to have produced as much as a third of the country's auction revenue in recent years — did not actually take place.'' Moreover, ``the market is flooded with forgeries, often mass-produced, and has become a breeding ground for corruption, as business executives curry favor with officials by bribing them with art.'' The Zhang Daqian painting market is part and parcel of this environment.
+One important reason for this recent decline is that the Chinese art market is dysfunctional. According to a recent New York Times article, “Forging an Art Market in China” October 28th, 2013, “... a six-month review...found that many of the sales — transactions reported to have produced as much as a third of the country’s auction revenue in recent years — did not actually take place.” Moreover, “the market is flooded with forgeries, often mass-produced, and has become a breeding ground for corruption, as business executives curry favor with officials by bribing them with art.” The Zhang Daqian painting market is part and parcel of this environment.
 
 
-In 2008, the Chinese art market had not yet entered this period of rapid price acceleration and widespread speculation, fraud and corruption. From 2004 to 2008 the market held steady. Zhang Daqian was considered a blue chip artist and his works commanded top prices at auction. The highest price paid for a Zhang Daqian painting during this period was October 24th, 2005 when an abstract landscape from his later career, ``Snowcapped Mountains in Switzerland'', 1967, sold for US\$1,932,990, HKD15,800,00 through Sotheby's Hong Kong. In 2008, the top selling Zhang Daqian paintings came from both his early and later career: a splashed ink and color on canvas abstract landscape, ``Cross-Island Highway Taiwan'' from the post-1949 period, selling for \$1,077,47.00 (HKD 8,391,500) through Sotheby's Hong Kong on April 8th, 2008, and a traditional style landscape in the manner of canonical painter, Wang Meng which sold for US\$975,120 (HKD 7,707,500) through Christies, Hong Kong on May 26, 2008.
+In 2008, the Chinese art market had not yet entered this period of rapid price acceleration and widespread speculation, fraud and corruption. From 2004 to 2008 the market held steady. Zhang Daqian was considered a blue chip artist and his works commanded top prices at auction. The highest price paid for a Zhang Daqian painting during this period was October 24th, 2005 when an abstract landscape from his later career, “Snowcapped Mountains in Switzerland”, 1967, sold for US\$1,932,990, HKD15,800,00 through Sotheby’s Hong Kong. In 2008, the top selling Zhang Daqian paintings came from both his early and later career: a splashed ink and color on canvas abstract landscape, “Cross-Island Highway Taiwan” from the post-1949 period, selling for \$1,077,47.00 (HKD 8,391,500) through Sotheby’s Hong Kong on April 8th, 2008, and a traditional style landscape in the manner of canonical painter, Wang Meng which sold for US\$975,120 (HKD 7,707,500) through Christies, Hong Kong on May 26, 2008.
 
 
-The paintings in the Choi collection are all traditional style paintings from his early career. The finest painting in the collection is ``Hunting in Autumn''. It is a rare work with numerous inscriptions and seals of the artist with an excellent provenance. It occupies the top market level which, in 2008, was between \$500,000 and \$1 million dollars. The two Tang-Song style figure paintings of deities are also highly desirable due to their rarity, subject matter and inscriptions. These works occupied Zhang Daqian's middle market level which in 2008 was between \$100,000 and \$500,000. The remaining paintings, the two bird on branch paintings, fan and signed woodblock print occupy the lower market level which, in 2008, was between \$10,000 and \$100,000.
+The paintings in the Choi collection are all traditional style paintings from his early career. The finest painting in the collection is “Hunting in Autumn”. It is a rare work with numerous inscriptions and seals of the artist with an excellent provenance. It occupies the top market level which, in 2008, was between \$500,000 and \$1 million dollars. The two Tang-Song style figure paintings of deities are also highly desirable due to their rarity, subject matter and inscriptions. These works occupied Zhang Daqian’s middle market level which in 2008 was between \$100,000 and \$500,000. The remaining paintings, the two bird on branch paintings, fan and signed woodblock print occupy the lower market level which, in 2008, was between \$10,000 and \$100,000.
 
 \newpage{}\subsection{Biography}
 
@@ -228,57 +250,65 @@ Zhang Daqian was one of the leading artists to emerge in China in the early twen
 In his early career he was an expert in the techniques and styles of ancient masters. In the 1940s he sought to revive the ancient Chinese painting found at Tang Dynasty Buddhist cave sites at Dunhuang and Yulin where he copied Buddhist wall paintings. During the Sino-Japanese War, the artist continued his study of traditional Tang-Song figure painting and ancient monumental landscape painting. His love of tradition was also reflected in his personal collection of ancient Chinese paintings, which he began early in his career. At its peak, his collection contained several hundred works from the Tang to Qing dynasties. In the 1960s, after he had emigrated from China to Brazil, he came under the influence of Abstract expressionists and his style changed radically to abstract compositions of landscapes in splashed ink and colors.
 
 \newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
-\textbf{CHOI} & \textbf{FAIR MARKET VALUE} \\
-\textbf{ITEM \#01} & \textbf{\$172,705} \\
+\textbf{CHOI} & \textbf{FAIR MARKET VALUE}\\
+\textbf{ITEM \#01} & \textbf{\$172,705}\\
 \end{tabular*}
-\begin{figure}[H]\centering
-  \begin{subfigure}{3.9850000000000003in}
-    \centering    \includegraphics[width=3.9850000000000003in]{testdata/test1/images/4c8997f0e6d391fac58f4e6c7e1f271c.jpg}
-    \caption{Figure a.}
-  \end{subfigure}%
-  ~ %
-  \begin{subfigure}{1.9966694398205922in}
-    \centering    \includegraphics[width=1.9966694398205922in]{testdata/test1/images/be1a0ed775d85f900a7931589d420f06.jpg}
-    \caption{Figure b. Inscription}
-  \end{subfigure}%
-\end{figure}
-
-\begin{figure}[H]\centering
-  \begin{subfigure}{2.15322168769582in}
-    \centering    \includegraphics[width=2.15322168769582in]{testdata/test1/images/737461707de644aeeb516d656d2d2f78.jpg}
-    \caption{Chinese Art Market Graph}
-  \end{subfigure}%
-  ~ %
-  \begin{subfigure}{1.675098880282889in}
-    \centering    \includegraphics[width=1.675098880282889in]{testdata/test1/images/2da31547d1a5db8c20a24bf72077e1ac.jpg}
-  \end{subfigure}%
-\end{figure}
+\begin{figure}[H]\centering{}%
+\begin{subfigure}{3.98500in}%
+\centering{}\includegraphics[width=3.98500in]{testdata/test1/images/4c8997f0e6d391fac58f4e6c7e1f271c.jpg}%
+\caption{Figure a.}%
+\end{subfigure}~%
+\begin{subfigure}{1.99667in}%
+\centering{}\includegraphics[width=1.99667in]{testdata/test1/images/be1a0ed775d85f900a7931589d420f06.jpg}%
+\caption{Figure b. Inscription}%
+\end{subfigure}\end{figure}%
+\begin{figure}[H]\centering{}%
+\begin{subfigure}{2.15322in}%
+\centering{}\includegraphics[width=2.15322in]{testdata/test1/images/737461707de644aeeb516d656d2d2f78.jpg}%
+\caption{Chinese Art Market Graph}%
+\end{subfigure}~%
+\begin{subfigure}{1.67510in}%
+\centering{}\includegraphics[width=1.67510in]{testdata/test1/images/2da31547d1a5db8c20a24bf72077e1ac.jpg}%
+\end{subfigure}\end{figure}%
 \begin{longtable}{p{.4\textwidth}p{.6\textwidth}}
-\textbf{Item Name} & 01 \\
-\textbf{Location} & Office \\
-\textbf{Type of Object} & Painting \\
-\textbf{Medium} & Ink and color on paper \\
-\textbf{Date/Period} & mid-Twentieth Century \\
-\textbf{Country/Nationality} & China \\
-\textbf{Artist/Maker} & Zhang Daqian \\
-\textbf{Artist Life Date} & 1899-1983 \\
-\textbf{Subject/Title} & After the wall mural of the Goddess from the Anxi Yulin Caves \\
-\textbf{Support/Frame/Base} & Silk mount \\
-\textbf{Frame/Support Measurements} & 77 1/2 inches x 23 inches \\
-\textbf{Item Measurements} & 39 3/4 inches x 17 1/4 inches \\
-\textbf{Signature/Inscription/Markings} & Inscription: 安西榆林窟唐人壁畫吉祥天女像
+\textbf{Item Name} & 01\\
+
+\textbf{Location} & Office\\
+
+\textbf{Type of Object} & Painting\\
+
+\textbf{Medium} & Ink and color on paper\\
+
+\textbf{Date/Period} & mid-Twentieth Century\\
+
+\textbf{Country/Nationality} & China\\
+
+\textbf{Artist/Maker} & Zhang Daqian\\
+
+\textbf{Artist Life Date} & 1899-1983\\
+
+\textbf{Subject/Title} & After the wall mural of the Goddess from the Anxi Yulin Caves\\
+
+\textbf{Support/Frame/Base} & Silk mount\\
+
+\textbf{Frame/Support Measurements} & 77 1/2 inches x 23 inches\\
+
+\textbf{Item Measurements} & 39 3/4 inches x 17 1/4 inches\\
+
+\textbf{Signature/Inscription/Markings} & Inscription: \makexeCJKactive{}安西榆林窟唐人壁畫吉祥天女像\makexeCJKinactive{}
 
 
-Portrait of Goddess Lakshmi in Tang wall painting in Anxi Yulin Caves
-Seals: 鈐印: 張爰印 Zhang Yuan、大千
-Signed: 大千居士. Daqian jushi
+Portrait of Goddess Lakshmi in Tang wall painting in Anxi Yulin Caves Seals: \makexeCJKactive{}鈐印\makexeCJKinactive{}: \makexeCJKactive{}張爰印\makexeCJKinactive{} Zhang Yuan、\makexeCJKactive{}大千\makexeCJKinactive{} Signed: \makexeCJKactive{}大千居士\makexeCJKinactive{}. Daqian jushi
 
 
-Seal: Zhang Yuan's Seal; Daqian and stamped by artist
+Seal: Zhang Yuan’s Seal; Daqian and stamped by artist
 
- \\
-\textbf{Condition} & Good: some foxing and buckling \\
-\textbf{Provenance} & Acquired directly from the artist in Macau in 1949, by Mr. Choi Hac-ting. Father-in-law oldest son met him in Sichuan \\
+\\
+
+\textbf{Condition} & Good: some foxing and buckling\\
+
+\textbf{Provenance} & Acquired directly from the artist in Macau in 1949, by Mr. Choi Hac-ting. Father-in-law oldest son met him in Sichuan\\
+
 
 \end{longtable}\paragraph{Description:}
 A ink and color on paper painting of Lakshmi after a Tang Dynasty wall mural at the Yulin Caves at Anxi.\paragraph{Market Analysis:}
@@ -288,395 +318,324 @@ According to Arnold Chang, the subject property is a good work of a type much so
 A search of auction records yielded three similar era and subject matter paintings. A figure of a Bodhisattva copied from a Buddhist mural at the Mogao Caves at Dunhuang (128 cm x 63 cm) sold through Beijing Rongbao Auctions on May 15th, 2005 for US\$172,705, RMB1,430,000 (exchange rate 8.28). Like the subject property it depicts a standing deity and has a single line inscription stating that it is modeled after Tang period mural.
 
 
-April 25th, 2004 a painting depicting a standing Guanyin after and a single line inscription also stating that it was modeled after a mural at the Mogao caves and signed and with two seals of the artist sold through Christies Hong Kong for \$\$US151,763A larger more elaborately rendered painting of Guanyin seated on a lotus with a long inscription by the artist at the top of the picture through Sotheby's Hong Kong on May 1st, 2005 for \$489,231. It is dated to 1944 signed and has three seals of the artist.
+April 25th, 2004 a painting depicting a standing Guanyin after and a single line inscription also stating that it was modeled after a mural at the Mogao caves and signed and with two seals of the artist sold through Christies Hong Kong for \$\$US151,763A larger more elaborately rendered painting of Guanyin seated on a lotus with a long inscription by the artist at the top of the picture through Sotheby’s Hong Kong on May 1st, 2005 for \$489,231. It is dated to 1944 signed and has three seals of the artist.
 
 
 \begin{enumerate}
-\item[$\bullet$]Lot 159
-Title: Figure of Bodhisattva
-Medium: Ink and color on gold paper
-Inscribed, signed and one seal of the artist
-Size: (50.4 inches 128 cm x 24.8 inches 63 cm) sold through
-Auction House: Beijing Rongbao Auctions
-Date of sale: 5/15/05
-Price: US\$172,705, RMB1,430,000 (exchange rate 8.28).
-\item[$\bullet$]Lot 90
-Title: Beginning of the Tang, Image of a Lady, Guanyin
-Ink and color on paper
-Inscribed, signed and two seals of the artist
-Christies, Hong Kong
-Date of Sale: 4/25/04
-Size: 44.88 inches x 23 .6 114 x 60 cm
-Sales Price: \$US151,763, HKD1,183,750 (exchange rate 7.80)
-\item[$\bullet$]Lot 258
-Title: Guanyin on a Lotus Seat
-Medium: Ink and color on paper
-Size: 62.6 inches x 27.75 inches, 159 cm x 70.5 cm
-Date: 1944
-Auction House: Sotheby's Hong Kong
-Date of sale; 5/1/05
-Sales price: \$489,231, HKD3,816,000 (exchange rate 7.80)
+\item[$\bullet$]Lot 159 Title: Figure of Bodhisattva Medium: Ink and color on gold paper Inscribed, signed and one seal of the artist Size: (50.4 inches 128 cm x 24.8 inches 63 cm) sold through Auction House: Beijing Rongbao Auctions Date of sale: 5/15/05 Price: US\$172,705, RMB1,430,000 (exchange rate 8.28).
+\item[$\bullet$]Lot 90 Title: Beginning of the Tang, Image of a Lady, Guanyin Ink and color on paper Inscribed, signed and two seals of the artist Christies, Hong Kong Date of Sale: 4/25/04 Size: 44.88 inches x 23 .6 114 x 60 cm Sales Price: \$US151,763, HKD1,183,750 (exchange rate 7.80)
+\item[$\bullet$]Lot 258 Title: Guanyin on a Lotus Seat Medium: Ink and color on paper Size: 62.6 inches x 27.75 inches, 159 cm x 70.5 cm Date: 1944 Auction House: Sotheby’s Hong Kong Date of sale; 5/1/05 Sales price: \$489,231, HKD3,816,000 (exchange rate 7.80)
 \end{enumerate}
 Of these three paintings, the subject property is most similar to the Figure of Bodhisattva which sold for \$US172,705 on May 15th, 2005 and is the basis for the Fair Market Conclusion of the subject property.
 
 \paragraph{Fair Market Value: }
 \$172,705.00\newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
-\textbf{CHOI} & \textbf{FAIR MARKET VALUE} \\
-\textbf{ITEM \#02} & \textbf{–} \\
+\textbf{CHOI} & \textbf{FAIR MARKET VALUE}\\
+\textbf{ITEM \#02} & \textbf{–}\\
 \end{tabular*}
-\begin{figure}[H]\centering
-  \begin{subfigure}{2.17in}
-    \centering    \includegraphics[width=2.17in]{testdata/test1/images/704d532632622fb5b3ea4a04cbdf58fe.jpg}
-  \end{subfigure}%
-\end{figure}
+\begin{figure}[H]\centering{}%
+\begin{subfigure}{2.17000in}%
+\centering{}\includegraphics[width=2.17000in]{testdata/test1/images/704d532632622fb5b3ea4a04cbdf58fe.jpg}%
+\end{subfigure}\end{figure}%
 \begin{longtable}{p{.4\textwidth}p{.6\textwidth}}
-\textbf{Item Name} & 02 \\
-\textbf{Type of Object} & Print \\
-\textbf{Medium} & Woodblock Print \\
-\textbf{Date/Period} & July, 1949 \\
-\textbf{Country/Nationality} & China \\
-\textbf{Artist/Maker} & Zhang Daqian \\
-\textbf{Artist Life Date} & 1899-1983 \\
-\textbf{Subject/Title} & Imitating a wall mural of a Goddess in the Mogao Caves at Dunhuang \\
-\textbf{Item Measurements} & 44.5 inches x 16.15 inches \\
-\textbf{Signature/Inscription/Markings} & Printed inscription; 倣漠高窟唐人筆作□□□天女
-Imitating the portrait of a goddess in Tang wall painting in Mogao Caves
-Signature: 大千居士 Daqian Jushi
+\textbf{Item Name} & 02\\
+
+\textbf{Type of Object} & Print\\
+
+\textbf{Medium} & Woodblock Print\\
+
+\textbf{Date/Period} & July, 1949\\
+
+\textbf{Country/Nationality} & China\\
+
+\textbf{Artist/Maker} & Zhang Daqian\\
+
+\textbf{Artist Life Date} & 1899-1983\\
+
+\textbf{Subject/Title} & Imitating a wall mural of a Goddess in the Mogao Caves at Dunhuang\\
+
+\textbf{Item Measurements} & 44.5 inches x 16.15 inches\\
+
+\textbf{Signature/Inscription/Markings} & Printed inscription; \makexeCJKactive{}倣漠高窟唐人筆作\makexeCJKinactive{}□□□\makexeCJKactive{}天女\makexeCJKinactive{}(Unexpected XTag: NTree (XTag "br" []) [])Imitating the portrait of a goddess in Tang wall painting in Mogao Caves Signature: \makexeCJKactive{}大千居士\makexeCJKinactive{} Daqian Jushi
 
 
-Written inscription: 故都榮寶齋木刻拙作，□□□克庭先生 教，大千張爰己丑七月成都□□□□A woodcut print of my work made by Rongbaozhai in Beijing...Daqian, Zhang Yuan, July, 1949, Chengdu
+Written inscription: \makexeCJKactive{}故都榮寶齋木刻拙作\makexeCJKinactive{}，□□□\makexeCJKactive{}克庭先生\makexeCJKinactive{} \makexeCJKactive{}教\makexeCJKinactive{}，\makexeCJKactive{}大千張爰己丑七月成都\makexeCJKinactive{}□□□□A woodcut print of my work made by Rongbaozhai in Beijing...Daqian, Zhang Yuan, July, 1949, Chengdu
 
 
-Seal: 荣宝斋仁山精制 Rongbaozhai renshan jingzhi Printed at Rongbaozhai.
+Seal: \makexeCJKactive{}荣宝斋仁山精制\makexeCJKinactive{} Rongbaozhai renshan jingzhi Printed at Rongbaozhai.
 
- \\
-\textbf{Condition} & Good. \\
-\textbf{Provenance} & The artist \\
+\\
+
+\textbf{Condition} & Good.\\
+
+\textbf{Provenance} & The artist\\
+
 
 \end{longtable}\paragraph{Description:}
-\paragraph{Market Analysis:}
+~\paragraph{Market Analysis:}
 A woodblock print of a painting of a mural of a goddess at one of the caves a Mogao in Dunhuang. I
 
 
 The same print also with a hand-written inscription by the artist dedicated to the patron sold at Huayi International Auction on 12/10/11 for RMB 138,000 or approximately US\$17,250
 
 \paragraph{Fair Market Value: }
-\newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
-\textbf{CHOI} & \textbf{FAIR MARKET VALUE} \\
-\textbf{ITEM \#03} & \textbf{–} \\
+~\newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
+\textbf{CHOI} & \textbf{FAIR MARKET VALUE}\\
+\textbf{ITEM \#03} & \textbf{–}\\
 \end{tabular*}
-\begin{figure}[H]\centering
-  \begin{subfigure}{1.6471318946158713in}
-    \centering    \includegraphics[width=1.6471318946158713in]{testdata/test1/images/b4f70dbf94856352ce749b6d4bccf684.jpg}
-  \end{subfigure}%
-  ~ %
-  \begin{subfigure}{1.6162327364980045in}
-    \centering    \includegraphics[width=1.6162327364980045in]{testdata/test1/images/dedaf47625ac1c2237b44b7f781ce3e5.jpg}
-    \caption{Figure B. Guanyin, 1940}
-  \end{subfigure}%
-  ~ %
-  \begin{subfigure}{1.6181554209321596in}
-    \centering    \includegraphics[width=1.6181554209321596in]{testdata/test1/images/7097b7b8ef498fb6de710055bb5870d9.jpg}
-    \caption{Figure C. "Drunken Dancing"}
-  \end{subfigure}%
-\end{figure}
+\begin{figure}[H]\centering{}%
+\begin{subfigure}{1.64713in}%
+\centering{}\includegraphics[width=1.64713in]{testdata/test1/images/b4f70dbf94856352ce749b6d4bccf684.jpg}%
+\end{subfigure}~%
+\begin{subfigure}{1.61623in}%
+\centering{}\includegraphics[width=1.61623in]{testdata/test1/images/dedaf47625ac1c2237b44b7f781ce3e5.jpg}%
+\caption{Figure B. Guanyin, 1940}%
+\end{subfigure}~%
+\begin{subfigure}{1.61816in}%
+\centering{}\includegraphics[width=1.61816in]{testdata/test1/images/7097b7b8ef498fb6de710055bb5870d9.jpg}%
+\caption{Figure C. "Drunken Dancing"}%
+\end{subfigure}\end{figure}%
 \begin{longtable}{p{.4\textwidth}p{.6\textwidth}}
-\textbf{Item Name} & 03 \\
-\textbf{Type of Object} & Painting \\
-\textbf{Medium} & Ink and colors on paper \\
-\textbf{Date/Period} & 6 month, 4th day, 1949 \\
-\textbf{Country/Nationality} & China \\
-\textbf{Artist/Maker} & Zhang Daqian \\
-\textbf{Artist Life Date} & 1899-1983 \\
-\textbf{Frame/Support Measurements} & 55.87 X 27.37 in. \\
-\textbf{Item Measurements} & Painting: 24.8 x 15.75 inches \\
-\textbf{Signature/Inscription/Markings} & Inscription on the painting, lower right:
-荷蓋迴翔下九嶷，蕙蘭姣服披雲衣，椒漿桂酒瓊芳榼，窈窕來兮風滿旗。 己丑之六月蜀郡張爰
+\textbf{Item Name} & 03\\
+
+\textbf{Type of Object} & Painting\\
+
+\textbf{Medium} & Ink and colors on paper\\
+
+\textbf{Date/Period} & 6 month, 4th day, 1949\\
+
+\textbf{Country/Nationality} & China\\
+
+\textbf{Artist/Maker} & Zhang Daqian\\
+
+\textbf{Artist Life Date} & 1899-1983\\
+
+\textbf{Frame/Support Measurements} & 55.87 X 27.37 in.\\
+
+\textbf{Item Measurements} & Painting: 24.8 x 15.75 inches\\
+
+\textbf{Signature/Inscription/Markings} & Inscription on the painting, lower right: \makexeCJKactive{}荷蓋迴翔下九嶷\makexeCJKinactive{}，\makexeCJKactive{}蕙蘭姣服披雲衣\makexeCJKinactive{}，\makexeCJKactive{}椒漿桂酒瓊芳榼\makexeCJKinactive{}，\makexeCJKactive{}窈窕來兮風滿旗\makexeCJKinactive{}。 \makexeCJKactive{}己丑之六月蜀郡張爰\makexeCJKinactive{}
 
 
-Translation:
-With canopy made by lotus leafs, she flies down the high mountains,
-She wears the garment made by orchid flowers and clouds,
-She brings an aromatic cup with wine made by pepper and sweet olive,
-She comes beautifully with the wind that is blowing the flags.
-Signed and seal: 張爰印、三千大千, 1949, Shu County, Zhang Yuan
-Seal: Zhang Yuan's Seal; San Qian Da Qian (Three thousand...) to Choi Hac-ting Cai
+Translation: With canopy made by lotus leafs, she flies down the high mountains, She wears the garment made by orchid flowers and clouds, She brings an aromatic cup with wine made by pepper and sweet olive, She comes beautifully with the wind that is blowing the flags. Signed and seal: \makexeCJKactive{}張爰印\makexeCJKinactive{}、\makexeCJKactive{}三千大千\makexeCJKinactive{}, 1949, Shu County, Zhang Yuan Seal: Zhang Yuan’s Seal; San Qian Da Qian (Three thousand...) to Choi Hac-ting Cai
 
 
-Inscription upper register, right:
-暮雨飄蘭佩，靈風肅荔裳，心源追李趙，清興滿瀟湘。
-Translation:
-Dusk rain sheds on her accessories made by orchids,
-Wind ripples her garment made by leaves of herbs.
-The (artist's) wish is to follow Li and Zhao's example,
-The elegant interest is fulfilled in this depiction of Madame Xiang.
+Inscription upper register, right: \makexeCJKactive{}暮雨飄蘭佩\makexeCJKinactive{}，\makexeCJKactive{}靈風肅荔裳\makexeCJKinactive{}，\makexeCJKactive{}心源追李趙\makexeCJKinactive{}，\makexeCJKactive{}清興滿瀟湘\makexeCJKinactive{}。 Translation: Dusk rain sheds on her accessories made by orchids, Wind ripples her garment made by leaves of herbs. The (artist’s) wish is to follow Li and Zhao’s example, The elegant interest is fulfilled in this depiction of Madame Xiang.
 
 
-Inscription upper register, left:
-大千此幅源出龍眠鷗波，而參以唐五代畫法故娟穆冲逸，絕去塵氛，大千別有九歌圖大小卷傑作，足以雄視藝林，此僅只鱗爪，已徵龍相矣
-遐翁葉恭綽識 蔡恭
-鈐印:蔡恭綽
-Translation:
-This work of Daqian is inspired by the works of Li Gonglin and Zhao Mengfu. Moreover, he adopted the style of Tang and Five Dynasties, so the work is so elegant and free from secular atmosphere. Daqian has created another great work, the Painting of the Nine Songs of Chu, which is qualified to make him the prominent figure of the art world. This work is an epitome of his artistic achievement, even though it shows only a small part of his talent.
-Signed: Xiaweng, Ye Gongchuo, Seal: Ye Gongchuo
+Inscription upper register, left: \makexeCJKactive{}大千此幅源出龍眠鷗波\makexeCJKinactive{}，\makexeCJKactive{}而參以唐五代畫法故娟穆冲逸\makexeCJKinactive{}，\makexeCJKactive{}絕去塵氛\makexeCJKinactive{}，\makexeCJKactive{}大千別有九歌圖大小卷傑作\makexeCJKinactive{}，\makexeCJKactive{}足以雄視藝林\makexeCJKinactive{}，\makexeCJKactive{}此僅只鱗爪\makexeCJKinactive{}，\makexeCJKactive{}已徵龍相矣\makexeCJKinactive{} \makexeCJKactive{}遐翁葉恭綽識\makexeCJKinactive{} \makexeCJKactive{}蔡恭\makexeCJKinactive{} \makexeCJKactive{}鈐印\makexeCJKinactive{}:\makexeCJKactive{}蔡恭綽\makexeCJKinactive{} Translation: This work of Daqian is inspired by the works of Li Gonglin and Zhao Mengfu. Moreover, he adopted the style of Tang and Five Dynasties, so the work is so elegant and free from secular atmosphere. Daqian has created another great work, the Painting of the Nine Songs of Chu, which is qualified to make him the prominent figure of the art world. This work is an epitome of his artistic achievement, even though it shows only a small part of his talent. Signed: Xiaweng, Ye Gongchuo, Seal: Ye Gongchuo
 
- \\
-\textbf{Condition} & Very good \\
-\textbf{Provenance} & The artist \\
+\\
+
+\textbf{Condition} & Very good\\
+
+\textbf{Provenance} & The artist\\
+
 
 \end{longtable}\paragraph{Market Analysis:}
-According to Arnold Chang, a well-known Chinese painting specialist and artist, the subject property is a ``superb quality'' baimiao (white outline) painting with a rare inscription written in archaic script. The colophon (inscription) by Ye Gongchuo's adds to the value, as he occupies a special place in Chinese modern history as a well-known artist, collector and connoisseur.
+According to Arnold Chang, a well-known Chinese painting specialist and artist, the subject property is a “superb quality” baimiao (white outline) painting with a rare inscription written in archaic script. The colophon (inscription) by Ye Gongchuo’s adds to the value, as he occupies a special place in Chinese modern history as a well-known artist, collector and connoisseur.
 
 
-Lot 1365
-Title: Portrait of Guanyin.
-Medium: Ink and color on paper,
-Date: 1940
-Auction House; Beijing Poly Auction,
-Sales date: 11/08/05
-Size: 57.06 inches x 27.6 inches, 145.5 cm x 69 cm.
-Sales Price: US\$477,075.58, RMB \$3,850,000 (exchange rate:8.07)
+Lot 1365 Title: Portrait of Guanyin. Medium: Ink and color on paper, Date: 1940 Auction House; Beijing Poly Auction, Sales date: 11/08/05 Size: 57.06 inches x 27.6 inches, 145.5 cm x 69 cm. Sales Price: US\$477,075.58, RMB \$3,850,000 (exchange rate:8.07)
 
 
-Lot 157
-Title: ``Drunken Dancing''
-Medium: Ink on paper
-Size: 47.83 inches x 21.65 inches
-Date: 1952
-Auction house: Beijing Rongbao Auctions
-Date of sale: 5/15/05
-Sales Price: US\$358,696, RMB2,970,000
+Lot 157 Title: “Drunken Dancing” Medium: Ink on paper Size: 47.83 inches x 21.65 inches Date: 1952 Auction house: Beijing Rongbao Auctions Date of sale: 5/15/05 Sales Price: US\$358,696, RMB2,970,000
 
 
-According to Mr. Chang, this is a highly desirable piece worth upwards of \$250,000 in September 2008.Ye Gongchuo is one of China's most famous collectors and calligraphers.
+According to Mr. Chang, this is a highly desirable piece worth upwards of \$250,000 in September 2008.Ye Gongchuo is one of China’s most famous collectors and calligraphers.
 
 \paragraph{Fair Market Value: }
-\newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
-\textbf{CHOI} & \textbf{FAIR MARKET VALUE} \\
-\textbf{ITEM \#04} & \textbf{\uwave{US\$817,844.00}} \\
+~\newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
+\textbf{CHOI} & \textbf{FAIR MARKET VALUE}\\
+\textbf{ITEM \#04} & \textbf{\uwave{US\$817,844.00}}\\
 \end{tabular*}
-\begin{figure}[H]\centering
-  \begin{subfigure}{2.7616666666666667in}
-    \centering    \includegraphics[width=2.7616666666666667in]{testdata/test1/images/468371c76d37ae6702d0feb882ad7414.jpg}
-    \caption{Figure a. "Hunting in Autumn"}
-  \end{subfigure}%
-  ~ %
-  \begin{subfigure}{1.728304928555193in}
-    \centering    \includegraphics[width=1.728304928555193in]{testdata/test1/images/ff14b1e06fdb7be500860de381ec0556.jpg}
-  \end{subfigure}%
-  ~ %
-  \begin{subfigure}{1.7563820907708232in}
-    \centering    \includegraphics[width=1.7563820907708232in]{testdata/test1/images/9ebd08e45a3dde33309858108a38a3c1.jpg}
-  \end{subfigure}%
-\end{figure}
-
-\begin{figure}[H]\centering
-  \begin{subfigure}{1.720009555635186in}
-    \centering    \includegraphics[width=1.720009555635186in]{testdata/test1/images/a34440237b704e8c4c87e45757f66550.jpg}
-    \caption{Jinbi Landscape}
-  \end{subfigure}%
-\end{figure}
+\begin{figure}[H]\centering{}%
+\begin{subfigure}{2.76167in}%
+\centering{}\includegraphics[width=2.76167in]{testdata/test1/images/468371c76d37ae6702d0feb882ad7414.jpg}%
+\caption{Figure a. "Hunting in Autumn"}%
+\end{subfigure}~%
+\begin{subfigure}{1.72830in}%
+\centering{}\includegraphics[width=1.72830in]{testdata/test1/images/ff14b1e06fdb7be500860de381ec0556.jpg}%
+\end{subfigure}~%
+\begin{subfigure}{1.75638in}%
+\centering{}\includegraphics[width=1.75638in]{testdata/test1/images/9ebd08e45a3dde33309858108a38a3c1.jpg}%
+\end{subfigure}\end{figure}%
+\begin{figure}[H]\centering{}%
+\begin{subfigure}{1.72001in}%
+\centering{}\includegraphics[width=1.72001in]{testdata/test1/images/a34440237b704e8c4c87e45757f66550.jpg}%
+\caption{Jinbi Landscape}%
+\end{subfigure}\end{figure}%
 \begin{longtable}{p{.4\textwidth}p{.6\textwidth}}
-\textbf{Item Name} & 04 \\
-\textbf{Type of Object} & Painting \\
-\textbf{Medium} & Ink and color on paper \\
-\textbf{Date/Period} & January 4th, 1949 \\
-\textbf{Country/Nationality} & China \\
-\textbf{Artist/Maker} & Zhang Daqian \\
-\textbf{Artist Life Date} & 1899-1983 \\
-\textbf{Subject/Title} & ``Hunting in the Autumn'' \\
-\textbf{Item Measurements} & 54 inches x 26 inches \\
-\textbf{Signature/Inscription/Markings} & Inscription:
-早秋北國雪初飛
-蘆荻花殘馬正肥
-豐草欲糜(迷)鹿
-酸風如箭射弓衣
-Translation:
-Snow starts to fall in early autumn in the north;
-The reed flowers are withering and the horses are strong.
-The lush grass attracts the deer,
-The chilling wind is like arrows that shoot from a quiver.
+\textbf{Item Name} & 04\\
+
+\textbf{Type of Object} & Painting\\
+
+\textbf{Medium} & Ink and color on paper\\
+
+\textbf{Date/Period} & January 4th, 1949\\
+
+\textbf{Country/Nationality} & China\\
+
+\textbf{Artist/Maker} & Zhang Daqian\\
+
+\textbf{Artist Life Date} & 1899-1983\\
+
+\textbf{Subject/Title} & “Hunting in the Autumn”\\
+
+\textbf{Item Measurements} & 54 inches x 26 inches\\
+
+\textbf{Signature/Inscription/Markings} & Inscription: \makexeCJKactive{}早秋北國雪初飛\makexeCJKinactive{} \makexeCJKactive{}蘆荻花殘馬正肥\makexeCJKinactive{} \makexeCJKactive{}豐草欲糜\makexeCJKinactive{}(\makexeCJKactive{}迷\makexeCJKinactive{})\makexeCJKactive{}鹿\makexeCJKinactive{} \makexeCJKactive{}酸風如箭射弓衣\makexeCJKinactive{} Translation: Snow starts to fall in early autumn in the north; The reed flowers are withering and the horses are strong. The lush grass attracts the deer, The chilling wind is like arrows that shoot from a quiver.
 
 
-己丑正月初四日再題 阿爰 欲下奪迷字: Inscribed again at January, 4th, 1949, A-Yuan
-Seals: 張爰長壽、張大千長年大吉又日利
-張爰私印、張爰、大千
+\makexeCJKactive{}己丑正月初四日再題\makexeCJKinactive{} \makexeCJKactive{}阿爰\makexeCJKinactive{} \makexeCJKactive{}欲下奪迷字\makexeCJKinactive{}: Inscribed again at January, 4th, 1949, A-Yuan Seals: \makexeCJKactive{}張爰長壽\makexeCJKinactive{}、\makexeCJKactive{}張大千長年大吉又日利\makexeCJKinactive{} \makexeCJKactive{}張爰私印\makexeCJKinactive{}、\makexeCJKactive{}張爰\makexeCJKinactive{}、\makexeCJKactive{}大千\makexeCJKinactive{}
 
 
-Zhang Yuan Longevity; Zhang Daqian's Long-time Luck; Zhang Yuan's Private Seal; Zhang Yuan; Daqian
+Zhang Yuan Longevity; Zhang Daqian’s Long-time Luck; Zhang Yuan’s Private Seal; Zhang Yuan; Daqian
 
- \\
-\textbf{Condition} & Good \\
+\\
+
+\textbf{Condition} & Good\\
+
 
 \end{longtable}\paragraph{Description:}
 A landscape rendered in ink washes and blue and green colors in an archaic style reminiscent of Tang Dynasty painting. The mounted hunters are rendered in the middle ground on a green spit of land. Behind them is a winding river, and autumnal trees dot the mountain-scape in the far distance. Three inscriptions by the artist are placed in the sky above the mountains.\paragraph{Market Analysis:}
-According to Mr. Chang, the subject property is an extremely fine work and very desirable to mainland Chinese collectors who are particularly fond of Zhang Daqian's early work. The painting demonstrates the artist's range as it includes figures, horses, and landscape elements. One of the best of its type. Moreover, it is inscribed twice by the artist and includes two signatures and three seals. Finally, it has a very good provenance since it has been in the family's possession since Choi Hac-ting received it from the artist in the late 40s to early 50s. (In 2013, the subject property sold through Beijing Poly International for \$6.9 million which is the 14th highest price ever paid for a painting by Zhang Daqian.) This is a rare and unique work which would have attracted much attention at auction in 2008.
+According to Mr. Chang, the subject property is an extremely fine work and very desirable to mainland Chinese collectors who are particularly fond of Zhang Daqian’s early work. The painting demonstrates the artist’s range as it includes figures, horses, and landscape elements. One of the best of its type. Moreover, it is inscribed twice by the artist and includes two signatures and three seals. Finally, it has a very good provenance since it has been in the family’s possession since Choi Hac-ting received it from the artist in the late 40s to early 50s. (In 2013, the subject property sold through Beijing Poly International for \$6.9 million which is the 14th highest price ever paid for a painting by Zhang Daqian.) This is a rare and unique work which would have attracted much attention at auction in 2008.
 
 
-A search of auction records in the years leading up to September 10th, 2008 yielded three similar size, style and era paintings, ``Trading Geese'' (figure B) which sold through China Guardian on November 5, 2007 for US\$345,772 and ``Jinbi Landscape'' 金璧山水 (Figure C) which sold through Tianjin Wenwu for \$398,550 on November 16th 2004. And ``Six Sages Gathering in a Bamboo Grove'' (Figure D) which sold through Beijing Poly on November 7th, 2005 for \$816,844. It is inscribed and signed by the artist and has four seals. Like the subject property, all of these paintings demonstrate the artist's range and include well rendered figures in an archaic style landscape. They date from the late 1930s to the late 1940s and are inscribed by the artist and include his signature and seals. The superb rendering of the figures in a bamboo grove next to a rushing stream in the ``Six Sages of the Bamboo Grove'' is closest in quality and rarity to the subject property. Although the subject property is closest in style and subject matter to the ``Jinbi Landscape'' and ``Trading Geese''. The former emphasizes the landscape while the latter emphasize the figure. The subject matter of the subject property depicting two mounted hunters in an archaic Tang style landscape successfully merges both figures and landscape demonstrating, as Arnold Chang has noted the painters range. Moreover, the extensive inscriptions, multiple signatures and seals by the artist add to its rarity and desirability. The ``Six Sages of the Bamboo Grove'' is also a very rare work; the rendering of figures and landscape elements also demonstrates the artist's range. Moreover, the multiple seals and inscription add to its value. In terms of rarity and execution, the subject property best approximates this painting which is the basis of the Fair Market conclusion of \$817,844.
+A search of auction records in the years leading up to September 10th, 2008 yielded three similar size, style and era paintings, “Trading Geese” (figure B) which sold through China Guardian on November 5, 2007 for US\$345,772 and “Jinbi Landscape” \makexeCJKactive{}金璧山水\makexeCJKinactive{} (Figure C) which sold through Tianjin Wenwu for \$398,550 on November 16th 2004. And “Six Sages Gathering in a Bamboo Grove” (Figure D) which sold through Beijing Poly on November 7th, 2005 for \$816,844. It is inscribed and signed by the artist and has four seals. Like the subject property, all of these paintings demonstrate the artist’s range and include well rendered figures in an archaic style landscape. They date from the late 1930s to the late 1940s and are inscribed by the artist and include his signature and seals. The superb rendering of the figures in a bamboo grove next to a rushing stream in the “Six Sages of the Bamboo Grove” is closest in quality and rarity to the subject property. Although the subject property is closest in style and subject matter to the “Jinbi Landscape” and “Trading Geese”. The former emphasizes the landscape while the latter emphasize the figure. The subject matter of the subject property depicting two mounted hunters in an archaic Tang style landscape successfully merges both figures and landscape demonstrating, as Arnold Chang has noted the painters range. Moreover, the extensive inscriptions, multiple signatures and seals by the artist add to its rarity and desirability. The “Six Sages of the Bamboo Grove” is also a very rare work; the rendering of figures and landscape elements also demonstrates the artist’s range. Moreover, the multiple seals and inscription add to its value. In terms of rarity and execution, the subject property best approximates this painting which is the basis of the Fair Market conclusion of \$817,844.
 
 
-*1. ``Trading Geese''
-Ink and color on paper
-1944
-Size: 37 3/4 inches x 17 3/4 inches
-China Guardian 11/5/07
-Price: US\$345,772 RMB 2,576,000
+*1. “Trading Geese” Ink and color on paper 1944 Size: 37 3/4 inches x 17 3/4 inches(Unexpected XTag: NTree (XTag "br" []) [])China Guardian 11/5/07 Price: US\$345,772 RMB 2,576,000
 
 
 \begin{enumerate}
-\item[$\bullet$]Lot 388
-Title: Jinbi Landscape
-Date: 1946
-Ink and color on paper
-Auction House: Tianjin Wenwu
-Date: 11/16/04
-Size: 40.35 inches x 19 inches
-Sale: \$USD398,550,RMB3,300,000 (8.28 exchange rate)
-\item[$\bullet$]Six Sages Gathering in a Bamboo Grove
-185 x 95 cm
-Date: 1939
-Auction House: Beijing Poly
-Date: 11/7/05
-Sale: US\$817,844, RMB6,600,000
-(exchange rate of 8.07)
+\item[$\bullet$]Lot 388 Title: Jinbi Landscape Date: 1946 Ink and color on paper Auction House: Tianjin Wenwu Date: 11/16/04 Size: 40.35 inches x 19 inches Sale: \$USD398,550,RMB3,300,000 (8.28 exchange rate)
+\item[$\bullet$]Six Sages Gathering in a Bamboo Grove 185 x 95 cm Date: 1939 Auction House: Beijing Poly Date: 11/7/05 Sale: US\$817,844, RMB6,600,000 (exchange rate of 8.07)
 \end{enumerate}
-In 2008, comparably rare and desirable works of rendered in an archaic style from Zhang's early period (pre-1949) include the following
+In 2008, comparably rare and desirable works of rendered in an archaic style from Zhang’s early period (pre-1949) include the following
 
 
 \begin{enumerate}
-\item[$\bullet$]Lot 994: Living in the Mountains on a Summer's Day after Wang Meng, 1947
-Size: 51.5 inches x 22.44 inches
-Auction House: Christies, Hong Kong,
-Date: May 26, 2008
-Estimate: HKD 3,500,000-4,000,000
-Price: US\$975,120, HKD 7,607,500 (exchange rate 7.83)
-\item[$\bullet$]Lot 668
-Title: Taiyi Watching The Waterfall (太乙觀泉圖)
-Dated: Bingxu, 1946
-Ink and color on paper
-Size: 59 x 20.6 inches
-Estimate: RMB 6,000,000-8,000,000
-Price: RMB 6,160,000; US\$902,050.00 (exchange rate on 11/10/08: RMB/USD 6.83
-Signed: Yuan, with two seals of the artist and one collector seal.
-Company: China Guardian Auctions Co.Ltd.
-Date:11/10/08
-\item[$\bullet$]Lot 768
-Title: Landscape
-Ink and Color on paper
-Size: 53.54 inches x 24.02 inches
-Estimate: 2,800,00 - 3,800,00
-Price: 5,040,000 RMB
-Company: Poly International Auction Co.
-Date: 11/30/07
+\item[$\bullet$]Lot 994: Living in the Mountains on a Summer’s Day after Wang Meng, 1947 Size: 51.5 inches x 22.44 inches Auction House: Christies, Hong Kong, Date: May 26, 2008 Estimate: HKD 3,500,000-4,000,000 Price: US\$975,120, HKD 7,607,500 (exchange rate 7.83)
+\item[$\bullet$]Lot 668 Title: Taiyi Watching The Waterfall (\makexeCJKactive{}太乙觀泉圖\makexeCJKinactive{}) Dated: Bingxu, 1946 Ink and color on paper Size: 59 x 20.6 inches Estimate: RMB 6,000,000-8,000,000 Price: RMB 6,160,000; US\$902,050.00 (exchange rate on 11/10/08: RMB/USD 6.83 Signed: Yuan, with two seals of the artist and one collector seal. Company: China Guardian Auctions Co.Ltd. Date:11/10/08
+\item[$\bullet$]Lot 768 Title: Landscape Ink and Color on paper Size: 53.54 inches x 24.02 inches Estimate: 2,800,00 - 3,800,00 Price: 5,040,000 RMB Company: Poly International Auction Co. Date: 11/30/07
 \end{enumerate}\paragraph{Fair Market Value: }
 US\$817,844.00\newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
-\textbf{CHOI} & \textbf{FAIR MARKET VALUE} \\
-\textbf{ITEM \#05} & \textbf{–} \\
+\textbf{CHOI} & \textbf{FAIR MARKET VALUE}\\
+\textbf{ITEM \#05} & \textbf{–}\\
 \end{tabular*}
-\begin{figure}[H]\centering
-  \begin{subfigure}{1.9952826850719965in}
-    \centering    \includegraphics[width=1.9952826850719965in]{testdata/test1/images/76d7208099435047291bd3acf59029c4.jpg}
-  \end{subfigure}%
-  ~ %
-  \begin{subfigure}{1.9966694398205922in}
-    \centering    \includegraphics[width=1.9966694398205922in]{testdata/test1/images/87e06bddd9edad4fe469cfd0fe469638.jpg}
-  \end{subfigure}%
-\end{figure}
+\begin{figure}[H]\centering{}%
+\begin{subfigure}{1.99528in}%
+\centering{}\includegraphics[width=1.99528in]{testdata/test1/images/76d7208099435047291bd3acf59029c4.jpg}%
+\end{subfigure}~%
+\begin{subfigure}{1.99667in}%
+\centering{}\includegraphics[width=1.99667in]{testdata/test1/images/87e06bddd9edad4fe469cfd0fe469638.jpg}%
+\end{subfigure}\end{figure}%
 \begin{longtable}{p{.4\textwidth}p{.6\textwidth}}
-\textbf{Item Name} & 05 \\
-\textbf{Type of Object} & Hanging scroll \\
-\textbf{Medium} & ink and color on paper \\
-\textbf{Date/Period} & Autumn, early 60s. \\
-\textbf{Artist Life Date} & 1899-1983 \\
-\textbf{Subject/Title} & Red Leaf and Bird \\
-\textbf{Frame/Support Measurements} & 48 inches x 18 5/8 inches \\
-\textbf{Item Measurements} & 36 3/4 inches x 15 inches \\
-\textbf{Signature/Inscription/Markings} & Artist's signature, Da qian Jushi 大千 居士 媛 signed says Autumn dedicated to the 7th brother, Choi, \\
-\textbf{Condition} & Poor. A lot of mold, foxing etc... \\
+\textbf{Item Name} & 05\\
+
+\textbf{Type of Object} & Hanging scroll\\
+
+\textbf{Medium} & ink and color on paper\\
+
+\textbf{Date/Period} & Autumn, early 60s.\\
+
+\textbf{Artist Life Date} & 1899-1983\\
+
+\textbf{Subject/Title} & Red Leaf and Bird\\
+
+\textbf{Frame/Support Measurements} & 48 inches x 18 5/8 inches\\
+
+\textbf{Item Measurements} & 36 3/4 inches x 15 inches\\
+
+\textbf{Signature/Inscription/Markings} & Artist’s signature, Da qian Jushi \makexeCJKactive{}大千\makexeCJKinactive{} \makexeCJKactive{}居士\makexeCJKinactive{} \makexeCJKactive{}媛\makexeCJKinactive{} signed says Autumn dedicated to the 7th brother, Choi,\\
+
+\textbf{Condition} & Poor. A lot of mold, foxing etc...\\
+
 
 \end{longtable}\paragraph{Description:}
-\paragraph{Market Analysis:}
+~\paragraph{Market Analysis:}
 According to the owner, her brother-in-law knew the artist when he lived in Sichuan and asked the artist to paint four paintings for each of his brothers and this is one of them. According to Arnold Chang this is a minor work in poor condition due to a poor quality mounting.\paragraph{Fair Market Value: }
-\newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
-\textbf{CHOI} & \textbf{FAIR MARKET VALUE} \\
-\textbf{ITEM \#06} & \textbf{–} \\
+~\newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
+\textbf{CHOI} & \textbf{FAIR MARKET VALUE}\\
+\textbf{ITEM \#06} & \textbf{–}\\
 \end{tabular*}
-\begin{figure}[H]\centering
-  \begin{subfigure}{1.9966694398205922in}
-    \centering    \includegraphics[width=1.9966694398205922in]{testdata/test1/images/3d749421345c62e8bf1a99563ee18e22.jpg}
-  \end{subfigure}%
-  ~ %
-  \begin{subfigure}{1.9966694398205922in}
-    \centering    \includegraphics[width=1.9966694398205922in]{testdata/test1/images/e81c07a3aa9672c3fc872acda313fb1d.jpg}
-  \end{subfigure}%
-\end{figure}
+\begin{figure}[H]\centering{}%
+\begin{subfigure}{1.99667in}%
+\centering{}\includegraphics[width=1.99667in]{testdata/test1/images/3d749421345c62e8bf1a99563ee18e22.jpg}%
+\end{subfigure}~%
+\begin{subfigure}{1.99667in}%
+\centering{}\includegraphics[width=1.99667in]{testdata/test1/images/e81c07a3aa9672c3fc872acda313fb1d.jpg}%
+\end{subfigure}\end{figure}%
 \begin{longtable}{p{.4\textwidth}p{.6\textwidth}}
-\textbf{Item Name} & 06 \\
-\textbf{Type of Object} & Hanging Scroll \\
-\textbf{Date/Period} & 1936, early Autumn \\
-\textbf{Artist Life Date} & 1899-1983 \\
-\textbf{Subject/Title} & Plum Blossom last a thousand years \\
-\textbf{Frame/Support Measurements} & 31 1/4 inches x 18 inches \\
-\textbf{Item Measurements} & 27 3/4 inches x 16 inches \\
-\textbf{Signature/Inscription/Markings} & Inscription: 子初秋□，昌桓七弟雅翫，大千居士爰大風堂作 1936, early Autumn. For Changhuan, the seventh brother, to view. Made by Daqian, jushi, a lay Buddhist, Yuan, in Da feng House
-Seal: 大千唯印大年 Daqian Wei In Da Nien
+\textbf{Item Name} & 06\\
 
- \\
-\textbf{Condition} & Good to Very Good \\
-\textbf{Provenance} & Acquired from the artist \\
+\textbf{Type of Object} & Hanging Scroll\\
+
+\textbf{Date/Period} & 1936, early Autumn\\
+
+\textbf{Artist Life Date} & 1899-1983\\
+
+\textbf{Subject/Title} & Plum Blossom last a thousand years\\
+
+\textbf{Frame/Support Measurements} & 31 1/4 inches x 18 inches\\
+
+\textbf{Item Measurements} & 27 3/4 inches x 16 inches\\
+
+\textbf{Signature/Inscription/Markings} & Inscription: \makexeCJKactive{}子初秋\makexeCJKinactive{}□，\makexeCJKactive{}昌桓七弟雅翫\makexeCJKinactive{}，\makexeCJKactive{}大千居士爰大風堂作\makexeCJKinactive{} 1936, early Autumn. For Changhuan, the seventh brother, to view. Made by Daqian, jushi, a lay Buddhist, Yuan, in Da feng House Seal: \makexeCJKactive{}大千唯印大年\makexeCJKinactive{} Daqian Wei In Da Nien\\
+
+\textbf{Condition} & Good to Very Good\\
+
+\textbf{Provenance} & Acquired from the artist\\
+
 
 \end{longtable}\paragraph{Description:}
-\paragraph{Market Analysis:}
+~\paragraph{Market Analysis:}
 A nice minor work in good condition. Worth \$30-50,000 today, perhaps \$12-15,000 in 2008.
 
 
 \begin{enumerate}
-\item[$\bullet$]Zhang Daqian
-Title Flower and bird
-Medium ink and color on paper, on scroll
-Year of Work 1971
-Size Height 26.8 in.; Width 17.7 in. / Height 68 cm.; Width 45 cm.
-Sale of Anhui YiHai Auctions Co., Ltd: Sunday, March 30, 2008 \textbackslash{}[undefined abbreviation: Lot 00155]Sold For 203,500 CNY (29,020 USD) PREMIUM Currency Converter
-\item[$\bullet$]*Zhang Daqian
-Title Red leaf and bird
-Medium ink and color paper, on scroll
-Size Height 46.5 in.; Width 13.8 in. / Height 118 cm.; Width 35 cm.
-Sale of Huachen Auctions: Monday, December 15, 2008 \textbackslash{}[undefined abbreviation: Lot 00422]work sold through
+\item[$\bullet$](Unexpected XTag: NTree (XTag "pre" []) [NTree (XTag "code" []) [NTree (XText "Zhang Daqian") []]])
+Title Flower and bird Medium ink and color on paper, on scroll Year of Work 1971 Size Height 26.8 in.; Width 17.7 in. / Height 68 cm.; Width 45 cm. Sale of Anhui YiHai Auctions Co., Ltd: Sunday, March 30, 2008 [Lot 00155] Modern and Contemporary Paintings and Calligraphy Estimate 100,000 - 120,000 CNY (14,260 - 17,113 USD) Sold For 203,500 CNY (29,020 USD) PREMIUM Currency Converter
+\item[$\bullet$]*Zhang Daqian Title Red leaf and bird Medium ink and color paper, on scroll Size Height 46.5 in.; Width 13.8 in. / Height 118 cm.; Width 35 cm. Sale of Huachen Auctions: Monday, December 15, 2008 [Lot 00422] Chinese Paintings and Calligraphy Estimate 180,000 - 200,000 CNY (26,317 - 29,241 USD) Sold For 201,600 CNY (29,475 USD) PREMIUM work sold through
 \end{enumerate}\paragraph{Fair Market Value: }
-\newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
-\textbf{CHOI} & \textbf{FAIR MARKET VALUE} \\
-\textbf{ITEM \#07} & \textbf{–} \\
+~\newpage{}\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}@{\extracolsep{0pt}}@{\extracolsep{\fill}}r}
+\textbf{CHOI} & \textbf{FAIR MARKET VALUE}\\
+\textbf{ITEM \#07} & \textbf{–}\\
 \end{tabular*}
-\begin{figure}[H]\centering
-  \begin{subfigure}{3.005004173619806in}
-    \centering    \includegraphics[width=3.005004173619806in]{testdata/test1/images/56f3673408d3156563af121d226cec73.jpg}
-  \end{subfigure}%
-\end{figure}
+\begin{figure}[H]\centering{}%
+\begin{subfigure}{3.00500in}%
+\centering{}\includegraphics[width=3.00500in]{testdata/test1/images/56f3673408d3156563af121d226cec73.jpg}%
+\end{subfigure}\end{figure}%
 \begin{longtable}{p{.4\textwidth}p{.6\textwidth}}
-\textbf{Item Name} & 07 \\
-\textbf{Type of Object} & Fan \\
-\textbf{Medium} & Ink and colors on paper \\
-\textbf{Date/Period} & June, 1949 \\
-\textbf{Support/Frame/Base} & Mounted \\
-\textbf{Frame/Support Measurements} & 28 inches x 21 inches \\
-\textbf{Item Measurements} & 21 inches x 17 inches \\
-\textbf{Condition} & Fair to good some losses in paper toning in paper \\
+\textbf{Item Name} & 07\\
+
+\textbf{Type of Object} & Fan\\
+
+\textbf{Medium} & Ink and colors on paper\\
+
+\textbf{Date/Period} & June, 1949\\
+
+\textbf{Support/Frame/Base} & Mounted\\
+
+\textbf{Frame/Support Measurements} & 28 inches x 21 inches\\
+
+\textbf{Item Measurements} & 21 inches x 17 inches\\
+
+\textbf{Condition} & Fair to good some losses in paper toning in paper\\
+
 
 \end{longtable}\paragraph{Description:}
-\paragraph{Market Analysis:}
+~\paragraph{Market Analysis:}
 Mr Chang, Fan leaf. Minor work. Worth about \$10-12,000 in 2008.\paragraph{Fair Market Value: }
-\newpage{}\section{Appendix A - Enlargements}
-\fancyhead{}\fancyfoot{}\begin{figure}[H]\centering
-  \begin{subfigure}{3.59in}
-    \centering    \includegraphics[width=3.59in]{testdata/test1/images/58245c39fc744e175b339fddd258cd07.jpg}
-    \caption{Figure a. "Hunting in Autumn"}
-  \end{subfigure}%
-\end{figure}
-
-\begin{figure}[H]\centering
-  \begin{subfigure}{6.5in}
-    \centering    \includegraphics[width=6.5in]{testdata/test1/images/8fc87d4a37f12e930ab22aa2791d2254.jpg}
-  \end{subfigure}%
-\end{figure}
+~\newpage{}\section{Appendix A - 17 Enlargements}
+\lhead{}\chead{}\rhead{}\lfoot{}\cfoot{}\rfoot{}\begin{figure}[H]\centering{}%
+\begin{subfigure}{3.59000in}%
+\centering{}\includegraphics[width=3.59000in]{testdata/test1/images/58245c39fc744e175b339fddd258cd07.jpg}%
+\caption{Figure a. "Hunting in Autumn"}%
+\end{subfigure}\end{figure}%
+\begin{figure}[H]\centering{}%
+\begin{subfigure}{6.50000in}%
+\centering{}\includegraphics[width=6.50000in]{testdata/test1/images/8fc87d4a37f12e930ab22aa2791d2254.jpg}%
+\end{subfigure}\end{figure}%
 \end{document}

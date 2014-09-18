@@ -129,6 +129,8 @@ testReport' modifyReport ver st =
 
        -- Run XeLaTeX to generate the PDF file
        removeFile "report.pdf" `catchIOError` (\ e -> if isDoesNotExistError e then return () else throw e)
+       (code1, _, _) <- readProcessWithExitCode "xelatex" ["report.ltx"] ""
+       (code2, _, _) <- readProcessWithExitCode "xelatex" ["report.ltx"] ""
        (code, out, err) <- readProcessWithExitCode "xelatex" ["report.ltx"] ""
        logM "test" DEBUG ("Test " ++ top ver ++ " Finished")
 
@@ -136,21 +138,10 @@ testReport' modifyReport ver st =
        logActual <- readFile "report.log" >>= return . dropWhile (/= '\n') . decodeUtf8 :: IO Text
        writeFile "report.out" out
        writeFile "report.err" err
-       let ltxLines = concatMap (\ c -> if c == '\\' then "\n\\" else singleton c) ltxActual
-       writeFile "report.ltx.lines" (encodeUtf8 ltxLines)
-       let logLines = concatMap (\ c -> if c == '\\' then "\n\\" else singleton c) logActual
-       writeFile "report.log.lines" (encodeUtf8 logLines)
-       -- _pdf <- (Just <$> readFile "report.pdf") `catchIOError` (\ e -> if isDoesNotExistError e then return Nothing else throw e)
        expectedLtx <- readFile $ top ver </> "expected" </> "report.ltx"
-       let (expectedLtxLines :: String) = foldr (\ c s -> if c == '\\' then '\n' : '\\' : s else c : s) "" . unpack . decodeUtf8 $ expectedLtx
-       writeFile (top ver </> "expected" </> "report.ltx.lines") (encodeUtf8 (pack expectedLtxLines))
        expectedLog <- readFile $ top ver </> "expected" </> "report.log"
-       let (expectedLogLines :: String) = foldr (\ c s -> if c == '\\' then '\n' : '\\' : s else c : s) "" . unpack . decodeUtf8 $ expectedLog
-       writeFile (top ver </> "expected" </> "report.log.lines") (encodeUtf8 (pack expectedLogLines))
 
        readProcessWithExitCode "diff" ["-ru", top ver </> "expected" </> "report.out", "report.out"] "" >>= \ (_, s, _) -> putStr (unpack (decodeUtf8 s))
-       readProcessWithExitCode "diff" ["-ru", top ver </> "expected" </> "report.ltx.lines", "report.ltx.lines"] "" >>= \ (_, s, _) -> putStr (unpack (decodeUtf8 s))
-       readProcessWithExitCode "diff" ["-ru", top ver </> "expected" </> "report.log.lines", "report.log.lines"] "" >>= \ (_, s, _) -> putStr (unpack (decodeUtf8 s))
        expect <- expected ver
        assertEqual (top ver) expect (Result code (checksum out) (unpack (decodeUtf8 err)) (checksum (encodeUtf8 ltxActual)) (checksum (encodeUtf8 logActual)))
 

@@ -39,6 +39,7 @@ Executable appraisalscribe-data-tests
     HUnit,
     mtl,
     network-uri,
+    pretty,
     process,
     process-listlike,
     pureMD5,
@@ -46,7 +47,7 @@ Executable appraisalscribe-data-tests
     syb,
     text
   if flag (local-appraisalscribe-data)
-    Hs-Source-Dirs: ../../darcs/appraisalscribe-data
+    Hs-Source-Dirs: ../appraisalscribe-data
     Build-Depends:
       aeson,
       binary,
@@ -72,7 +73,7 @@ Executable appraisalscribe-data-tests
     Build-Depends: appraisalscribe-data
 
   if flag (local-image-cache)
-    Hs-Source-Dirs: ../../git/image-cache
+    Hs-Source-Dirs: ../image-cache
   else
     Build-Depends:
       image-cache
